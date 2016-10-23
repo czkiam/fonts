@@ -1,0 +1,10 @@
+/*
+*
+* styles:
+*   tarnation
+*
+*/
+@font-face {
+  font-family: "tarnation";
+  src: url("../fonts/tarnation/tarnation.eot");
+  src: url("../fonts/tarnation/tarnation.eot?#iefix") format("embedded-opentype"), url("../fonts/tarnation/tarnation.woff") format("woff"), url("../fonts/tarnation/tarnation.ttf") format("truetype"), url("../fonts/tarnation/tarnation.svg#tarnation") format("svg"); }

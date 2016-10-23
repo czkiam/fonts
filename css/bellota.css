@@ -1,0 +1,36 @@
+/*
+*
+* styles:
+*   bellota-
+*     bold, bold-italic, light, light-italic, italic, regular
+*
+*/
+@font-face {
+  font-family: "bellota-bold";
+  src: url("../fonts/bellota/bellota-bold.eot");
+  src: url("../fonts/bellota/bellota-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota-bold.woff") format("woff"), url("../fonts/bellota/bellota-bold.ttf") format("truetype"), url("../fonts/bellota/bellota-bold.svg#bellota-bold") format("svg"); }
+
+@font-face {
+  font-family: "bellota-bold-italic";
+  src: url("../fonts/bellota/bellota-bold-italic.eot");
+  src: url("../fonts/bellota/bellota-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota-bold-italic.woff") format("woff"), url("../fonts/bellota/bellota-bold-italic.ttf") format("truetype"), url("../fonts/bellota/bellota-bold-italic.svg#bellota-bold-italic") format("svg"); }
+
+@font-face {
+  font-family: "bellota-light";
+  src: url("../fonts/bellota/bellota-light.eot");
+  src: url("../fonts/bellota/bellota-light.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota-light.woff") format("woff"), url("../fonts/bellota/bellota-light.ttf") format("truetype"), url("../fonts/bellota/bellota-light.svg#bellota-light") format("svg"); }
+
+@font-face {
+  font-family: "bellota-light-italic";
+  src: url("../fonts/bellota/bellota-light-italic.eot");
+  src: url("../fonts/bellota/bellota-light-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota-light-italic.woff") format("woff"), url("../fonts/bellota/bellota-light-italic.ttf") format("truetype"), url("../fonts/bellota/bellota-light-italic.svg#bellota-light-italic") format("svg"); }
+
+@font-face {
+  font-family: "bellota-italic";
+  src: url("../fonts/bellota/bellota-italic.eot");
+  src: url("../fonts/bellota/bellota-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota-italic.woff") format("woff"), url("../fonts/bellota/bellota-italic.ttf") format("truetype"), url("../fonts/bellota/bellota-italic.svg#bellota-italic") format("svg"); }
+
+@font-face {
+  font-family: "bellota-regular";
+  src: url("../fonts/bellota/bellota-regular.eot");
+  src: url("../fonts/bellota/bellota-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota-regular.woff") format("woff"), url("../fonts/bellota/bellota-regular.ttf") format("truetype"), url("../fonts/bellota/bellota-regular.svg#bellota-regular") format("svg"); }

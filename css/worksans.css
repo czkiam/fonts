@@ -1,0 +1,56 @@
+/*
+*
+* styles:
+*   worksans-
+*     black, bold, extrabold, extralight, hairline, light, medium, regular, semibold, thin
+*
+*/
+@font-face {
+  font-family: "worksans-black";
+  src: url("../fonts/worksans/worksans-black.eot");
+  src: url("../fonts/worksans/worksans-black.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-black.woff") format("woff"), url("../fonts/worksans/worksans-black.ttf") format("truetype"), url("../fonts/worksans/worksans-black.svg#worksans-black") format("svg"); }
+
+@font-face {
+  font-family: "worksans-bold";
+  src: url("../fonts/worksans/worksans-bold.eot");
+  src: url("../fonts/worksans/worksans-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-bold.woff") format("woff"), url("../fonts/worksans/worksans-bold.ttf") format("truetype"), url("../fonts/worksans/worksans-bold.svg#worksans-bold") format("svg"); }
+
+@font-face {
+  font-family: "worksans-extrabold";
+  src: url("../fonts/worksans/worksans-extrabold.eot");
+  src: url("../fonts/worksans/worksans-extrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-extrabold.woff") format("woff"), url("../fonts/worksans/worksans-extrabold.ttf") format("truetype"), url("../fonts/worksans/worksans-extrabold.svg#worksans-extrabold") format("svg"); }
+
+@font-face {
+  font-family: "worksans-extralight";
+  src: url("../fonts/worksans/worksans-extralight.eot");
+  src: url("../fonts/worksans/worksans-extralight.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-extralight.woff") format("woff"), url("../fonts/worksans/worksans-extralight.ttf") format("truetype"), url("../fonts/worksans/worksans-extralight.svg#worksans-extralight") format("svg"); }
+
+@font-face {
+  font-family: "worksans-hairline";
+  src: url("../fonts/worksans/worksans-hairline.eot");
+  src: url("../fonts/worksans/worksans-hairline.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-hairline.woff") format("woff"), url("../fonts/worksans/worksans-hairline.ttf") format("truetype"), url("../fonts/worksans/worksans-hairline.svg#worksans-hairline") format("svg"); }
+
+@font-face {
+  font-family: "worksans-light";
+  src: url("../fonts/worksans/worksans-light.eot");
+  src: url("../fonts/worksans/worksans-light.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-light.woff") format("woff"), url("../fonts/worksans/worksans-light.ttf") format("truetype"), url("../fonts/worksans/worksans-light.svg#worksans-light") format("svg"); }
+
+@font-face {
+  font-family: "worksans-medium";
+  src: url("../fonts/worksans/worksans-medium.eot");
+  src: url("../fonts/worksans/worksans-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-medium.woff") format("woff"), url("../fonts/worksans/worksans-medium.ttf") format("truetype"), url("../fonts/worksans/worksans-medium.svg#worksans-medium") format("svg"); }
+
+@font-face {
+  font-family: "worksans-regular";
+  src: url("../fonts/worksans/worksans-regular.eot");
+  src: url("../fonts/worksans/worksans-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-regular.woff") format("woff"), url("../fonts/worksans/worksans-regular.ttf") format("truetype"), url("../fonts/worksans/worksans-regular.svg#worksans-regular") format("svg"); }
+
+@font-face {
+  font-family: "worksans-semibold";
+  src: url("../fonts/worksans/worksans-semibold.eot");
+  src: url("../fonts/worksans/worksans-semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-semibold.woff") format("woff"), url("../fonts/worksans/worksans-semibold.ttf") format("truetype"), url("../fonts/worksans/worksans-semibold.svg#worksans-semibold") format("svg"); }
+
+@font-face {
+  font-family: "worksans-thin";
+  src: url("../fonts/worksans/worksans-thin.eot");
+  src: url("../fonts/worksans/worksans-thin.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-thin.woff") format("woff"), url("../fonts/worksans/worksans-thin.ttf") format("truetype"), url("../fonts/worksans/worksans-thin.svg#worksans-thin") format("svg"); }

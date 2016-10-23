@@ -4,14 +4,7 @@
 *   milkshake
 *
 */
-
 @font-face {
-    font-family: 'milkshake';
-    src: url('../fonts/milkshake/milkshake.eot');
-    src: url('../fonts/milkshake/milkshake.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/milkshake/milkshake.woff') format('woff'),
-         url('../fonts/milkshake/milkshake.ttf') format('truetype'),
-         url('../fonts/milkshake/milkshake.svg#milkshakeregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+  font-family: "milkshake";
+  src: url("../fonts/milkshake/milkshake.eot");
+  src: url("../fonts/milkshake/milkshake.eot?#iefix") format("embedded-opentype"), url("../fonts/milkshake/milkshake.woff") format("woff"), url("../fonts/milkshake/milkshake.ttf") format("truetype"), url("../fonts/milkshake/milkshake.svg#milkshake") format("svg"); }

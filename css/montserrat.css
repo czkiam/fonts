@@ -1,0 +1,31 @@
+/*
+*
+* styles:
+*   montserrat-
+*     black, bold, hairline, light, regular
+*
+*/
+@font-face {
+  font-family: "montserrat-black";
+  src: url("../fonts/montserrat/montserrat-black.eot");
+  src: url("../fonts/montserrat/montserrat-black.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-black.woff") format("woff"), url("../fonts/montserrat/montserrat-black.ttf") format("truetype"), url("../fonts/montserrat/montserrat-black.svg#montserrat-black") format("svg"); }
+
+@font-face {
+  font-family: "montserrat-bold";
+  src: url("../fonts/montserrat/montserrat-bold.eot");
+  src: url("../fonts/montserrat/montserrat-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-bold.woff") format("woff"), url("../fonts/montserrat/montserrat-bold.ttf") format("truetype"), url("../fonts/montserrat/montserrat-bold.svg#montserrat-bold") format("svg"); }
+
+@font-face {
+  font-family: "montserrat-hairline";
+  src: url("../fonts/montserrat/montserrat-hairline.eot");
+  src: url("../fonts/montserrat/montserrat-hairline.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-hairline.woff") format("woff"), url("../fonts/montserrat/montserrat-hairline.ttf") format("truetype"), url("../fonts/montserrat/montserrat-hairline.svg#montserrat-hairline") format("svg"); }
+
+@font-face {
+  font-family: "montserrat-light";
+  src: url("../fonts/montserrat/montserrat-light.eot");
+  src: url("../fonts/montserrat/montserrat-light.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-light.woff") format("woff"), url("../fonts/montserrat/montserrat-light.ttf") format("truetype"), url("../fonts/montserrat/montserrat-light.svg#montserrat-light") format("svg"); }
+
+@font-face {
+  font-family: "montserrat-regular";
+  src: url("../fonts/montserrat/montserrat-regular.eot");
+  src: url("../fonts/montserrat/montserrat-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-regular.woff") format("woff"), url("../fonts/montserrat/montserrat-regular.ttf") format("truetype"), url("../fonts/montserrat/montserrat-regular.svg#montserrat-regular") format("svg"); }
