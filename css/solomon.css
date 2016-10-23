@@ -1,26 +1,19 @@
-/*
-*
-* styles:
-*   solomon-
-*     black, bold, light, normal
-*
-*/
 @font-face {
   font-family: "solomon-black";
   src: url("../fonts/solomon/solomon-black.eot");
-  src: url("../fonts/solomon/solomon-black.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-black.woff") format("woff"), url("../fonts/solomon/solomon-black.ttf") format("truetype"), url("../fonts/solomon/solomon-black.svg#solomon-black") format("svg"); }
+  src: url("../fonts/solomon/solomon-black.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-black.woff") format("woff"), url("../fonts/solomon/solomon-black.ttf") format("truetype"), url("../fonts/solomon/solomon-black.svg") format("svg"); }
 
 @font-face {
   font-family: "solomon-bold";
   src: url("../fonts/solomon/solomon-bold.eot");
-  src: url("../fonts/solomon/solomon-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-bold.woff") format("woff"), url("../fonts/solomon/solomon-bold.ttf") format("truetype"), url("../fonts/solomon/solomon-bold.svg#solomon-bold") format("svg"); }
+  src: url("../fonts/solomon/solomon-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-bold.woff") format("woff"), url("../fonts/solomon/solomon-bold.ttf") format("truetype"), url("../fonts/solomon/solomon-bold.svg") format("svg"); }
 
 @font-face {
   font-family: "solomon-light";
   src: url("../fonts/solomon/solomon-light.eot");
-  src: url("../fonts/solomon/solomon-light.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-light.woff") format("woff"), url("../fonts/solomon/solomon-light.ttf") format("truetype"), url("../fonts/solomon/solomon-light.svg#solomon-light") format("svg"); }
+  src: url("../fonts/solomon/solomon-light.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-light.woff") format("woff"), url("../fonts/solomon/solomon-light.ttf") format("truetype"), url("../fonts/solomon/solomon-light.svg") format("svg"); }
 
 @font-face {
   font-family: "solomon-normal";
   src: url("../fonts/solomon/solomon-normal.eot");
-  src: url("../fonts/solomon/solomon-normal.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-normal.woff") format("woff"), url("../fonts/solomon/solomon-normal.ttf") format("truetype"), url("../fonts/solomon/solomon-normal.svg#solomon-normal") format("svg"); }
+  src: url("../fonts/solomon/solomon-normal.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-normal.woff") format("woff"), url("../fonts/solomon/solomon-normal.ttf") format("truetype"), url("../fonts/solomon/solomon-normal.svg") format("svg"); }

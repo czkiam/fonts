@@ -1,0 +1,92 @@
+{
+  "config": {
+    "path": "../fonts",
+    "separator": "-"
+  },
+  "fonts": [
+    {
+      "title": "Bellota",
+      "name": "bellota",
+      "styles": ["bold", "bold-italic", "light", "light-italic", "italic", "regular"],
+      "type": "serif"
+    },
+    {
+      "title": "Gotham",
+      "name": "gotham",
+      "styles": ["black", "bold", "book", "light", "medium", "thin"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Helvetica Neue",
+      "name": "helveticaneue",
+      "styles": ["Black", "BlackCond", "BlackItalic", "Bold", "BoldCond", "BoldItalic", "Condensed", "Heavy", "HeavyItalic", "Italic", "Light", "LightItalic", "Medium", "MediumItalic", "Regular", "Thin", "ThinItalic", "UltraLight", "UltraLightItalic"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Lato",
+      "name": "lato",
+      "styles": ["black", "bold", "hairline", "light", "medium", "regular", "thin"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Milkshake",
+      "name": "milkshake",
+      "styles": [""],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Montserrat",
+      "name": "montserrat",
+      "styles": ["black", "bold", "hairline", "light", "regular"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Museo",
+      "name": "museo",
+      "styles": ["bold", "light", "regular"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Open Sans",
+      "name": "opensans",
+      "styles": ["bold-italic", "bold", "extrabold-italic", "extrabold", "italic", "light-italic", "light", "regular", "semibold-italic", "semibold"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "PlayFair Display",
+      "name": "playfairdisplay",
+      "styles": ["black", "blackitalic", "bold", "bolditalic", "italic", "regular"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Scene",
+      "name": "scene",
+      "styles": ["black", "bold", "light", "regular"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Solomon",
+      "name": "solomon",
+      "styles": ["black", "bold", "light", "normal"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Tarnation",
+      "name": "tarnation",
+      "styles": [""],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Uni Sans",
+      "name": "unisans",
+      "styles": ["bold", "bold-italic", "book", "book-italic", "heavy", "heavy-italic", "light", "light-italic", "regular", "regular-italic", "semibold", "semibold-italic", "thin", "thin-italic"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Work Sans",
+      "name": "worksans",
+      "styles": ["black", "bold", "extrabold", "extralight", "hairline", "light", "medium", "regular", "semibold", "thin"],
+      "type": "sans-serif"
+    }
+  ]
+}

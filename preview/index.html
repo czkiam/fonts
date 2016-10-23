@@ -1,0 +1,19 @@
+<html ng-app="app" ng-controller="FontsController as fonts">
+  <head>
+    <title>Fonts - PSoares</title>
+  </head>
+  <body>
+    <h1>Paulo</h1>
+  </body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
+  <script type="text/javascript">
+    var app = angular.module('app', []);
+
+    app.controller('FontsController', function($scope, $http) {
+    $http.get('../fonts.json')
+         .then(function(res){
+            console.log(res)
+          });
+    });
+  </script>
+</html>

@@ -1,0 +1,24 @@
+{
+  "name": "fonts",
+  "version": "1.0.0",
+  "description": "* Milkshake * Lato * Helvetica neue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psoaresbj/fonts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psoaresbj/fonts/issues"
+  },
+  "homepage": "https://github.com/psoaresbj/fonts#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-json-transform": "^0.4.2",
+    "gulp-pug": "^3.1.0"
+  }
+}

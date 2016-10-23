@@ -2,31 +2,31 @@
 Use `https://github.com/psoaresbj/fonts/tree/master/css/` + *fontname*`.css`
 
 ## Fonts list
-* Bellota 
+* Bellota  
 `bellota`
-* Gotham 
+* Gotham  
 `gotham`
-* Helvetica neue 
+* Helvetica neue  
 `helveticaneue`
-* Lato 
+* Lato  
 `lato`
-* Milkshake 
+* Milkshake  
 `milkshake`
-* Montserrat 
+* Montserrat  
 `montserrat`
-* Museo 
+* Museo  
 `museo`
-* Open Sans 
+* Open Sans  
 `opensans`
-* Playfair Display 
+* Playfair Display  
 `playfairdisplay`
-* Scene 
+* Scene  
 `scene`
-* Solomon 
+* Solomon  
 `solomon`
-* Tarnation 
+* Tarnation  
 `tarnation`
-* Uni sans 
+* Uni sans  
 `unisans`
-* Work Sans 
+* Work Sans  
 `worksans`

@@ -1,26 +1,19 @@
-/*
-*
-* styles:
-*   scene-
-*     black, bold, light, regular
-*
-*/
 @font-face {
   font-family: "scene-black";
   src: url("../fonts/scene/scene-black.eot");
-  src: url("../fonts/scene/scene-black.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-black.woff") format("woff"), url("../fonts/scene/scene-black.ttf") format("truetype"), url("../fonts/scene/scene-black.svg#scene-black") format("svg"); }
+  src: url("../fonts/scene/scene-black.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-black.woff") format("woff"), url("../fonts/scene/scene-black.ttf") format("truetype"), url("../fonts/scene/scene-black.svg") format("svg"); }
 
 @font-face {
   font-family: "scene-bold";
   src: url("../fonts/scene/scene-bold.eot");
-  src: url("../fonts/scene/scene-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-bold.woff") format("woff"), url("../fonts/scene/scene-bold.ttf") format("truetype"), url("../fonts/scene/scene-bold.svg#scene-bold") format("svg"); }
+  src: url("../fonts/scene/scene-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-bold.woff") format("woff"), url("../fonts/scene/scene-bold.ttf") format("truetype"), url("../fonts/scene/scene-bold.svg") format("svg"); }
 
 @font-face {
   font-family: "scene-light";
   src: url("../fonts/scene/scene-light.eot");
-  src: url("../fonts/scene/scene-light.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-light.woff") format("woff"), url("../fonts/scene/scene-light.ttf") format("truetype"), url("../fonts/scene/scene-light.svg#scene-light") format("svg"); }
+  src: url("../fonts/scene/scene-light.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-light.woff") format("woff"), url("../fonts/scene/scene-light.ttf") format("truetype"), url("../fonts/scene/scene-light.svg") format("svg"); }
 
 @font-face {
   font-family: "scene-regular";
   src: url("../fonts/scene/scene-regular.eot");
-  src: url("../fonts/scene/scene-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-regular.woff") format("woff"), url("../fonts/scene/scene-regular.ttf") format("truetype"), url("../fonts/scene/scene-regular.svg#scene-regular") format("svg"); }
+  src: url("../fonts/scene/scene-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-regular.woff") format("woff"), url("../fonts/scene/scene-regular.ttf") format("truetype"), url("../fonts/scene/scene-regular.svg") format("svg"); }

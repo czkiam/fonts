@@ -1,21 +1,14 @@
-/*
-*
-* styles:
-*   museo-
-*     bold, light, regular
-*
-*/
 @font-face {
   font-family: "museo-bold";
   src: url("../fonts/museo/museo-bold.eot");
-  src: url("../fonts/museo/museo-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/museo/museo-bold.woff") format("woff"), url("../fonts/museo/museo-bold.ttf") format("truetype"), url("../fonts/museo/museo-bold.svg#museo-bold") format("svg"); }
+  src: url("../fonts/museo/museo-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/museo/museo-bold.woff") format("woff"), url("../fonts/museo/museo-bold.ttf") format("truetype"), url("../fonts/museo/museo-bold.svg") format("svg"); }
 
 @font-face {
   font-family: "museo-light";
   src: url("../fonts/museo/museo-light.eot");
-  src: url("../fonts/museo/museo-light.eot?#iefix") format("embedded-opentype"), url("../fonts/museo/museo-light.woff") format("woff"), url("../fonts/museo/museo-light.ttf") format("truetype"), url("../fonts/museo/museo-light.svg#museo-light") format("svg"); }
+  src: url("../fonts/museo/museo-light.eot?#iefix") format("embedded-opentype"), url("../fonts/museo/museo-light.woff") format("woff"), url("../fonts/museo/museo-light.ttf") format("truetype"), url("../fonts/museo/museo-light.svg") format("svg"); }
 
 @font-face {
   font-family: "museo-regular";
   src: url("../fonts/museo/museo-regular.eot");
-  src: url("../fonts/museo/museo-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/museo/museo-regular.woff") format("woff"), url("../fonts/museo/museo-regular.ttf") format("truetype"), url("../fonts/museo/museo-regular.svg#museo-regular") format("svg"); }
+  src: url("../fonts/museo/museo-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/museo/museo-regular.woff") format("woff"), url("../fonts/museo/museo-regular.ttf") format("truetype"), url("../fonts/museo/museo-regular.svg") format("svg"); }
