@@ -27,7 +27,7 @@
     $http.get('../fonts.json')
          .then(function(res){
             console.log(res)
-            vm.data = res.data;
+            vm.data = res.data.fonts;
             vm.selected = 'lato';
             getFont();
           });
