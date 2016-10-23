@@ -1,18 +1,35 @@
 <html ng-app="app" ng-controller="FontsController as fonts">
   <head>
     <title>Fonts - PSoares</title>
+    <link rel="stylesheet" type="text/css" href="../css/{{fonts.selected}}.css">
   </head>
   <body>
-    <h1>Paulo</h1>
+    <h3>Font selected: {{fonts.selectedObj.title}}</h3>
+
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
   <script type="text/javascript">
     var app = angular.module('app', []);
 
     app.controller('FontsController', function($scope, $http) {
+
+    var vm = this;
+
+
+    var getFont = function() {
+      for (var i = 0; i < vm.data.length; i++) {
+        if (vm.data[i].name === vm.selected) {
+          vm.selectedObj = vm.data[i];
+        }
+      }
+    }
+
     $http.get('../fonts.json')
          .then(function(res){
             console.log(res)
+            vm.data = res.data;
+            vm.selected = 'lato';
+            getFont();
           });
     });
   </script>
