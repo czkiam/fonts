@@ -18,7 +18,7 @@
   "homepage": "https://github.com/psoaresbj/fonts#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-json-transform": "^0.4.2",
-    "gulp-pug": "^3.1.0"
+    "gulp-fontgen": "^0.2.5",
+    "gulp-json-transform": "^0.4.2"
   }
 }

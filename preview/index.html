@@ -5,18 +5,23 @@
     <link ng-if="font.dataLoaded" rel="stylesheet" type="text/css" ng-href="../css/{{font.selectedObj.name}}.css">
   </head>
   <body>
-    <div ng-if="font.dataLoaded">
-      <select
-        ng-options="option.title for option in font.data track by option.name"
-        ng-model="font.selectedObj">
-      </select>
-      <input type="text" ng-model="font.inputDemo" placeholder="Write something..."></input>
-      <ul>
-        <li ng-repeat="style in font.selectedObj.styles">
-          <span ng-if="font.selectedObj.styles.length > 1" ng-bind="font.inputDemo || font.selectedObj.name + '-' + style" ng-style="{'font-family': font.selectedObj.name + '-' + style}"></span>
-          <span ng-if="font.selectedObj.styles.length < 2" ng-bind="font.inputDemo || font.selectedObj.name" ng-style="{'font-family': font.selectedObj.name}"></span>
-        </li>
-      </ul>
+    <div class="wrapper" ng-if="font.dataLoaded">
+      <div class="selectArea">
+        <select
+          ng-options="option.title for option in font.data track by option.name"
+          ng-model="font.selectedObj">
+        </select>
+      </div>
+      <div class="text-styles">
+        <input type="text" ng-model="font.inputDemo" placeholder="Write something..."></input>
+        <h6>Styles</h6>
+        <ul>
+          <li ng-repeat="style in font.selectedObj.styles">
+            <span ng-if="font.selectedObj.styles.length > 1" ng-bind="font.inputDemo || font.selectedObj.name + '-' + style" ng-style="{'font-family': font.selectedObj.name + '-' + style}"></span>
+            <span ng-if="font.selectedObj.styles.length < 2" ng-bind="font.inputDemo || font.selectedObj.name" ng-style="{'font-family': font.selectedObj.name}"></span>
+          </li>
+        </ul>
+      </div>
     </div>
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>

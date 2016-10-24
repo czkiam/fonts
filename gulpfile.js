@@ -1,17 +1,18 @@
 'use strict';
 
 var gulp = require('gulp');
-var pug  = require('gulp-pug');
 var json = require('gulp-json-transform');
 var gutil = require('gulp-util');
+var fontgen = require('gulp-fontgen');
 
-gulp.task('pug', function buildHTML() {
-  return gulp.src('./index.pug')
-  .pipe(pug({
-    // Your options in here.
-  }))
-  .pipe(gulp.dest('./preview'));
+gulp.task('fonts', function() {
+  return gulp.src("./f/*.{ttf,otf}")
+    .pipe(fontgen({
+      dest: "./f2/"
+    }));
 });
+
+gulp.task('default', ['fontgen']);
 
 function createFile(filename, string) {
   var src = require('stream').Readable({ objectMode: true })
