@@ -1,33 +1,45 @@
-<html ng-app="app" ng-controller="FontsController as fonts">
+<html ng-app="app" ng-controller="FontCtrl as font">
   <head>
     <title>Fonts - PSoares</title>
-    <link rel="stylesheet" type="text/css" href="../css/{{fonts.selected}}.css">
+    <link rel="stylesheet" type="text/css" ng-href="../css/{{font.selectedObj.name}}.css">
   </head>
   <body>
-    <h3>Font selected: {{fonts.selectedObj.title}}</h3>
+    <div ng-if="font.dataLoaded">
+      <select
+        ng-options="option.title for option in font.data track by option.name"
+        ng-model="font.selectedObj">
+      </select>
+      <h2>{{font.selectedObj.title}}</h2>
+      <ul>
+        <li ng-repeat="style in font.selectedObj.styles">
+          <span ng-bind="font.selectedObj.name + '-' + style" style="font-family: {{font.selectedObj.name + '-' + style}}"></span>
+        </li>
+      </ul>
+    </div>
 
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
   <script type="text/javascript">
     var app = angular.module('app', []);
 
-    app.controller('FontsController', function($scope, $http) {
+    app.controller('FontCtrl', function($scope, $http) {
 
     var vm = this;
     vm.selected = 'lato';
+    vm.selectedObj = {};
 
-
-    var getFont = function() {
+    getFont = function() {
       for (var i = 0; i < vm.data.length; i++) {
         if (vm.data[i].name === vm.selected) {
           vm.selectedObj = vm.data[i];
+          console.log(vm.selectedObj)
+          vm.dataLoaded = true;
         }
       }
     }
 
-    $http.get('../fonts.json')
+    $http.get('https://cdn.rawgit.com/psoaresbj/fonts/master/fonts.json')
          .then(function(res){
-            console.log(res)
             vm.data = res.data.fonts;
             getFont();
           });

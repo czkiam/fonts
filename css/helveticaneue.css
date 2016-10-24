@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "helveticaneue-Black";
-  src: url("../fonts/helveticaneue/helveticaneue-Black.eot");
-  src: url("../fonts/helveticaneue/helveticaneue-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/helveticaneue/helveticaneue-Black.woff") format("woff"), url("../fonts/helveticaneue/helveticaneue-Black.ttf") format("truetype"), url("../fonts/helveticaneue/helveticaneue-Black.svg") format("svg"); }
+  font-family: "helveticaneue";
+  src: url("../fonts/helveticaneue/helveticaneue.eot");
+  src: url("../fonts/helveticaneue/helveticaneue.eot?#iefix") format("embedded-opentype"), url("../fonts/helveticaneue/helveticaneue.woff") format("woff"), url("../fonts/helveticaneue/helveticaneue.ttf") format("truetype"), url("../fonts/helveticaneue/helveticaneue.svg") format("svg"); }
 
 @font-face {
   font-family: "helveticaneue-BlackCond";

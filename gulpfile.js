@@ -41,7 +41,11 @@ gulp.task('generate', function() {
           var fullPath = '';
 
           for (var z = 0; z < styles.length; z++) {
-            style = fontName + separator + styles[z];
+            if (style.length > 0) {
+              style = fontName + separator + styles[z];
+            } else {
+              style = fontName;
+            }
             fullPath = path + '/' + fontName + '/' + style;
 
             content += '@font-face {\n';

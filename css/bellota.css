@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "bellota-bold";
-  src: url("../fonts/bellota/bellota-bold.eot");
-  src: url("../fonts/bellota/bellota-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota-bold.woff") format("woff"), url("../fonts/bellota/bellota-bold.ttf") format("truetype"), url("../fonts/bellota/bellota-bold.svg") format("svg"); }
+  font-family: "bellota";
+  src: url("../fonts/bellota/bellota.eot");
+  src: url("../fonts/bellota/bellota.eot?#iefix") format("embedded-opentype"), url("../fonts/bellota/bellota.woff") format("woff"), url("../fonts/bellota/bellota.ttf") format("truetype"), url("../fonts/bellota/bellota.svg") format("svg"); }
 
 @font-face {
   font-family: "bellota-bold-italic";

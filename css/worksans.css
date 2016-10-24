@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "worksans-black";
-  src: url("../fonts/worksans/worksans-black.eot");
-  src: url("../fonts/worksans/worksans-black.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans-black.woff") format("woff"), url("../fonts/worksans/worksans-black.ttf") format("truetype"), url("../fonts/worksans/worksans-black.svg") format("svg"); }
+  font-family: "worksans";
+  src: url("../fonts/worksans/worksans.eot");
+  src: url("../fonts/worksans/worksans.eot?#iefix") format("embedded-opentype"), url("../fonts/worksans/worksans.woff") format("woff"), url("../fonts/worksans/worksans.ttf") format("truetype"), url("../fonts/worksans/worksans.svg") format("svg"); }
 
 @font-face {
   font-family: "worksans-bold";

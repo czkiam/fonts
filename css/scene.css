@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "scene-black";
-  src: url("../fonts/scene/scene-black.eot");
-  src: url("../fonts/scene/scene-black.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene-black.woff") format("woff"), url("../fonts/scene/scene-black.ttf") format("truetype"), url("../fonts/scene/scene-black.svg") format("svg"); }
+  font-family: "scene";
+  src: url("../fonts/scene/scene.eot");
+  src: url("../fonts/scene/scene.eot?#iefix") format("embedded-opentype"), url("../fonts/scene/scene.woff") format("woff"), url("../fonts/scene/scene.ttf") format("truetype"), url("../fonts/scene/scene.svg") format("svg"); }
 
 @font-face {
   font-family: "scene-bold";

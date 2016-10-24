@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "unisans-bold";
-  src: url("../fonts/unisans/unisans-bold.eot");
-  src: url("../fonts/unisans/unisans-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/unisans/unisans-bold.woff") format("woff"), url("../fonts/unisans/unisans-bold.ttf") format("truetype"), url("../fonts/unisans/unisans-bold.svg") format("svg"); }
+  font-family: "unisans";
+  src: url("../fonts/unisans/unisans.eot");
+  src: url("../fonts/unisans/unisans.eot?#iefix") format("embedded-opentype"), url("../fonts/unisans/unisans.woff") format("woff"), url("../fonts/unisans/unisans.ttf") format("truetype"), url("../fonts/unisans/unisans.svg") format("svg"); }
 
 @font-face {
   font-family: "unisans-bold-italic";
