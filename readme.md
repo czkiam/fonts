@@ -21,7 +21,7 @@
 
 
 ## <a name="bellota"></a>Bellota
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/bellota.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/bellota.css");`
 ##### Styles:
 ```
 bellota-light
@@ -32,7 +32,7 @@ bellota-bold
 bellota-bold-italic
 ```
 ## <a name="gotham"></a>Gotham
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css");`
 ##### Styles:
 ```
 gotham-black
@@ -43,7 +43,7 @@ gotham-medium
 gotham-thin
 ```
 ## <a name="helveticaneue"></a>Helvetica Neue
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/helveticaneue.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/helveticaneue.css");`
 ##### Styles:
 ```
 helveticaneue-Black
@@ -67,7 +67,7 @@ helveticaneue-UltraLight
 helveticaneue-UltraLightItalic
 ```
 ## <a name="lato"></a>Lato
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/lato.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/lato.css");`
 ##### Styles:
 ```
 lato-black
@@ -79,13 +79,13 @@ lato-regular
 lato-thin
 ```
 ## <a name="milkshake"></a>Milkshake
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/milkshake.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/milkshake.css");`
 ##### Styles:
 ```
 milkshake
 ```
 ## <a name="montserrat"></a>Montserrat
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/montserrat.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/montserrat.css");`
 ##### Styles:
 ```
 montserrat-black
@@ -95,7 +95,7 @@ montserrat-light
 montserrat-regular
 ```
 ## <a name="museo"></a>Museo
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/museo.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/museo.css");`
 ##### Styles:
 ```
 museo-bold
@@ -103,7 +103,7 @@ museo-light
 museo-regular
 ```
 ## <a name="opensans"></a>Open Sans
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/opensans.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/opensans.css");`
 ##### Styles:
 ```
 opensans-bold-italic
@@ -118,7 +118,7 @@ opensans-semibold-italic
 opensans-semibold
 ```
 ## <a name="playfairdisplay"></a>PlayFair Display
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/playfairdisplay.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/playfairdisplay.css");`
 ##### Styles:
 ```
 playfairdisplay-black
@@ -129,7 +129,7 @@ playfairdisplay-italic
 playfairdisplay-regular
 ```
 ## <a name="scene"></a>Scene
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/scene.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/scene.css");`
 ##### Styles:
 ```
 scene-black
@@ -138,7 +138,7 @@ scene-light
 scene-regular
 ```
 ## <a name="solomon"></a>Solomon
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/solomon.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/solomon.css");`
 ##### Styles:
 ```
 solomon-black
@@ -147,13 +147,13 @@ solomon-light
 solomon-normal
 ```
 ## <a name="tarnation"></a>Tarnation
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/tarnation.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/tarnation.css");`
 ##### Styles:
 ```
 tarnation
 ```
 ## <a name="unisans"></a>Uni Sans
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/unisans.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/unisans.css");`
 ##### Styles:
 ```
 unisans-bold
@@ -172,7 +172,7 @@ unisans-thin
 unisans-thin-italic
 ```
 ## <a name="worksans"></a>Work Sans
-url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/worksans.css`
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/worksans.css");`
 ##### Styles:
 ```
 worksans-black

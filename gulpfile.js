@@ -46,7 +46,7 @@ gulp.task('generate', function() {
 
           fontList += '* [' + fontTitle + '](#' + fontName + ')\n';
           readme += '## <a name="' + fontName + '"></a>' + fontTitle + '\n';
-          readme += 'url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/' + fontName + '.css`\n';
+          readme += '`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/' + fontName + '.css");`\n';
           readme += '##### Styles:\n';
           readme += '```\n';
 
