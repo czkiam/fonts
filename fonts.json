@@ -7,7 +7,7 @@
     {
       "title": "Bellota",
       "name": "bellota",
-      "styles": ["bold", "bold-italic", "light", "light-italic", "italic", "regular"],
+      "styles": ["", "bold", "bold-italic", "light", "light-italic", "italic", "regular"],
       "type": "serif"
     },
     {

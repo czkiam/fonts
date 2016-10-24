@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "opensans";
-  src: url("../fonts/opensans/opensans.eot");
-  src: url("../fonts/opensans/opensans.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/opensans.woff") format("woff"), url("../fonts/opensans/opensans.ttf") format("truetype"), url("../fonts/opensans/opensans.svg") format("svg"); }
+  font-family: "opensans-bold-italic";
+  src: url("../fonts/opensans/opensans-bold-italic.eot");
+  src: url("../fonts/opensans/opensans-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans/opensans-bold-italic.woff") format("woff"), url("../fonts/opensans/opensans-bold-italic.ttf") format("truetype"), url("../fonts/opensans/opensans-bold-italic.svg") format("svg"); }
 
 @font-face {
   font-family: "opensans-bold";

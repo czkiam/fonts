@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "montserrat";
-  src: url("../fonts/montserrat/montserrat.eot");
-  src: url("../fonts/montserrat/montserrat.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat.woff") format("woff"), url("../fonts/montserrat/montserrat.ttf") format("truetype"), url("../fonts/montserrat/montserrat.svg") format("svg"); }
+  font-family: "montserrat-black";
+  src: url("../fonts/montserrat/montserrat-black.eot");
+  src: url("../fonts/montserrat/montserrat-black.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-black.woff") format("woff"), url("../fonts/montserrat/montserrat-black.ttf") format("truetype"), url("../fonts/montserrat/montserrat-black.svg") format("svg"); }
 
 @font-face {
   font-family: "montserrat-bold";

@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "playfairdisplay";
-  src: url("../fonts/playfairdisplay/playfairdisplay.eot");
-  src: url("../fonts/playfairdisplay/playfairdisplay.eot?#iefix") format("embedded-opentype"), url("../fonts/playfairdisplay/playfairdisplay.woff") format("woff"), url("../fonts/playfairdisplay/playfairdisplay.ttf") format("truetype"), url("../fonts/playfairdisplay/playfairdisplay.svg") format("svg"); }
+  font-family: "playfairdisplay-black";
+  src: url("../fonts/playfairdisplay/playfairdisplay-black.eot");
+  src: url("../fonts/playfairdisplay/playfairdisplay-black.eot?#iefix") format("embedded-opentype"), url("../fonts/playfairdisplay/playfairdisplay-black.woff") format("woff"), url("../fonts/playfairdisplay/playfairdisplay-black.ttf") format("truetype"), url("../fonts/playfairdisplay/playfairdisplay-black.svg") format("svg"); }
 
 @font-face {
   font-family: "playfairdisplay-blackitalic";

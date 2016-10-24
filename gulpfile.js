@@ -41,7 +41,7 @@ gulp.task('generate', function() {
           var fullPath = '';
 
           for (var z = 0; z < styles.length; z++) {
-            if (style.length > 0) {
+            if (styles.length > 0) {
               style = fontName + separator + styles[z];
             } else {
               style = fontName;

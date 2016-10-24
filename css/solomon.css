@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "solomon";
-  src: url("../fonts/solomon/solomon.eot");
-  src: url("../fonts/solomon/solomon.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon.woff") format("woff"), url("../fonts/solomon/solomon.ttf") format("truetype"), url("../fonts/solomon/solomon.svg") format("svg"); }
+  font-family: "solomon-black";
+  src: url("../fonts/solomon/solomon-black.eot");
+  src: url("../fonts/solomon/solomon-black.eot?#iefix") format("embedded-opentype"), url("../fonts/solomon/solomon-black.woff") format("woff"), url("../fonts/solomon/solomon-black.ttf") format("truetype"), url("../fonts/solomon/solomon-black.svg") format("svg"); }
 
 @font-face {
   font-family: "solomon-bold";

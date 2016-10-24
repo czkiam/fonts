@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "gotham";
-  src: url("../fonts/gotham/gotham.eot");
-  src: url("../fonts/gotham/gotham.eot?#iefix") format("embedded-opentype"), url("../fonts/gotham/gotham.woff") format("woff"), url("../fonts/gotham/gotham.ttf") format("truetype"), url("../fonts/gotham/gotham.svg") format("svg"); }
+  font-family: "gotham-black";
+  src: url("../fonts/gotham/gotham-black.eot");
+  src: url("../fonts/gotham/gotham-black.eot?#iefix") format("embedded-opentype"), url("../fonts/gotham/gotham-black.woff") format("woff"), url("../fonts/gotham/gotham-black.ttf") format("truetype"), url("../fonts/gotham/gotham-black.svg") format("svg"); }
 
 @font-face {
   font-family: "gotham-bold";

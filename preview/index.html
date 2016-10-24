@@ -2,6 +2,7 @@
   <head>
     <title>Fonts - PSoares</title>
     <link rel="stylesheet" type="text/css" ng-href="../css/{{font.selectedObj.name}}.css">
+    <link rel="stylesheet" type="text/css" ng-href="../css/museo.css">
   </head>
   <body>
     <div ng-if="font.dataLoaded">
@@ -9,15 +10,16 @@
         ng-options="option.title for option in font.data track by option.name"
         ng-model="font.selectedObj">
       </select>
-      <h2>{{font.selectedObj.title}}</h2>
       <ul>
         <li ng-repeat="style in font.selectedObj.styles">
-          <span ng-if="font.selectedObj.styles.length > 1" ng-bind="font.selectedObj.name + '-' + style" style="font-family: {{font.selectedObj.name + '-' + style}}"></span>
-          <span ng-if="font.selectedObj.styles.length < 2" ng-bind="font.selectedObj.name" style="font-family: {{font.selectedObj.name}}"></span>
+          <span ng-if="font.selectedObj.styles.length > 1" ng-bind="font.selectedObj.name + '-' + style" ng-style="{'font-family': font.selectedObj.name + '-' + style}"></span>
+          <span ng-if="font.selectedObj.styles.length < 2" ng-bind="font.selectedObj.name" ng-style="{'font-family': font.selectedObj.name}"></span>
         </li>
       </ul>
     </div>
-
+    <p style="font-family: museo-bold">
+      teste
+    </p>
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
   <script type="text/javascript">
