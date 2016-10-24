@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "aleo-light";
+  src: url("../fonts/aleo/aleo-light.eot");
+  src: url("../fonts/aleo/aleo-light.eot?#iefix") format("embedded-opentype"), url("../fonts/aleo/aleo-light.woff") format("woff"), url("../fonts/aleo/aleo-light.ttf") format("truetype"), url("../fonts/aleo/aleo-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "aleo-light-italic";
+  src: url("../fonts/aleo/aleo-light-italic.eot");
+  src: url("../fonts/aleo/aleo-light-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/aleo/aleo-light-italic.woff") format("woff"), url("../fonts/aleo/aleo-light-italic.ttf") format("truetype"), url("../fonts/aleo/aleo-light-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "aleo-regular";
+  src: url("../fonts/aleo/aleo-regular.eot");
+  src: url("../fonts/aleo/aleo-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/aleo/aleo-regular.woff") format("woff"), url("../fonts/aleo/aleo-regular.ttf") format("truetype"), url("../fonts/aleo/aleo-regular.svg") format("svg"); }
+
+@font-face {
+  font-family: "aleo-italic";
+  src: url("../fonts/aleo/aleo-italic.eot");
+  src: url("../fonts/aleo/aleo-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/aleo/aleo-italic.woff") format("woff"), url("../fonts/aleo/aleo-italic.ttf") format("truetype"), url("../fonts/aleo/aleo-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "aleo-bold";
+  src: url("../fonts/aleo/aleo-bold.eot");
+  src: url("../fonts/aleo/aleo-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/aleo/aleo-bold.woff") format("woff"), url("../fonts/aleo/aleo-bold.ttf") format("truetype"), url("../fonts/aleo/aleo-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "aleo-bold-italic";
+  src: url("../fonts/aleo/aleo-bold-italic.eot");
+  src: url("../fonts/aleo/aleo-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/aleo/aleo-bold-italic.woff") format("woff"), url("../fonts/aleo/aleo-bold-italic.ttf") format("truetype"), url("../fonts/aleo/aleo-bold-italic.svg") format("svg"); }

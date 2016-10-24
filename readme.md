@@ -2,6 +2,7 @@
 
 
 ## Font list:
+* [Aleo](#aleo)
 * [Bellota](#bellota)
 * [Gotham](#gotham)
 * [Helvetica Neue](#helveticaneue)
@@ -20,6 +21,17 @@
 ***
 
 
+## <a name="aleo"></a>Aleo
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/aleo.css");`
+##### Styles:
+```
+aleo-light
+aleo-light-italic
+aleo-regular
+aleo-italic
+aleo-bold
+aleo-bold-italic
+```
 ## <a name="bellota"></a>Bellota
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/bellota.css");`
 ##### Styles:
@@ -35,12 +47,12 @@ bellota-bold-italic
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css");`
 ##### Styles:
 ```
-gotham-black
-gotham-bold
-gotham-book
-gotham-light
-gotham-medium
 gotham-thin
+gotham-light
+gotham-book
+gotham-medium
+gotham-bold
+gotham-black
 ```
 ## <a name="helveticaneue"></a>Helvetica Neue
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/helveticaneue.css");`
