@@ -31,7 +31,8 @@ gulp.task('generate', function() {
   return gulp.src('./fonts.json')
     .pipe(json(function(data, file) {
 
-      var readme = '# Fonts to use\n\n\n';
+      var readme = '\n\n';
+      var fontList = '## Font list:\n';
 
         for (var i = 0; i < data.fonts.length; i++) {
           var styles = data.fonts[i].styles
@@ -43,7 +44,8 @@ gulp.task('generate', function() {
           var style = '';
           var fullPath = '';
 
-          readme += '## ' + fontTitle + '\n';
+          fontList += '* [' + fontTitle + '](#' + fontName + ')\n';
+          readme += '## <a name="' + fontName + '"></a>' + fontTitle + '\n';
           readme += 'url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/' + fontName + '.css`\n';
           readme += '##### Styles:\n';
           readme += '```\n';
@@ -77,7 +79,7 @@ gulp.task('generate', function() {
           readme += '```\n';
         }
         createFile( 'readme.md',
-          readme
+          '# Fonts to use \n\n\n' + fontList + readme
         )
         .pipe(gulp.dest('./'))
         return {};

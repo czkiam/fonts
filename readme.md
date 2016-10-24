@@ -1,7 +1,24 @@
-# Fonts to use
+# Fonts to use 
 
 
-## Bellota
+## Font list:
+* [Bellota](#bellota)
+* [Gotham](#gotham)
+* [Helvetica Neue](#helveticaneue)
+* [Lato](#lato)
+* [Milkshake](#milkshake)
+* [Montserrat](#montserrat)
+* [Museo](#museo)
+* [Open Sans](#opensans)
+* [PlayFair Display](#playfairdisplay)
+* [Scene](#scene)
+* [Solomon](#solomon)
+* [Tarnation](#tarnation)
+* [Uni Sans](#unisans)
+* [Work Sans](#worksans)
+
+
+## <a name="bellota"></a>Bellota
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/bellota.css`
 ##### Styles:
 ```
@@ -12,7 +29,7 @@ bellota-italic
 bellota-bold
 bellota-bold-italic
 ```
-## Gotham
+## <a name="gotham"></a>Gotham
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css`
 ##### Styles:
 ```
@@ -23,7 +40,7 @@ gotham-light
 gotham-medium
 gotham-thin
 ```
-## Helvetica Neue
+## <a name="helveticaneue"></a>Helvetica Neue
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/helveticaneue.css`
 ##### Styles:
 ```
@@ -47,7 +64,7 @@ helveticaneue-ThinItalic
 helveticaneue-UltraLight
 helveticaneue-UltraLightItalic
 ```
-## Lato
+## <a name="lato"></a>Lato
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/lato.css`
 ##### Styles:
 ```
@@ -59,13 +76,13 @@ lato-medium
 lato-regular
 lato-thin
 ```
-## Milkshake
+## <a name="milkshake"></a>Milkshake
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/milkshake.css`
 ##### Styles:
 ```
 milkshake
 ```
-## Montserrat
+## <a name="montserrat"></a>Montserrat
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/montserrat.css`
 ##### Styles:
 ```
@@ -75,7 +92,7 @@ montserrat-hairline
 montserrat-light
 montserrat-regular
 ```
-## Museo
+## <a name="museo"></a>Museo
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/museo.css`
 ##### Styles:
 ```
@@ -83,7 +100,7 @@ museo-bold
 museo-light
 museo-regular
 ```
-## Open Sans
+## <a name="opensans"></a>Open Sans
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/opensans.css`
 ##### Styles:
 ```
@@ -98,7 +115,7 @@ opensans-regular
 opensans-semibold-italic
 opensans-semibold
 ```
-## PlayFair Display
+## <a name="playfairdisplay"></a>PlayFair Display
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/playfairdisplay.css`
 ##### Styles:
 ```
@@ -109,7 +126,7 @@ playfairdisplay-bolditalic
 playfairdisplay-italic
 playfairdisplay-regular
 ```
-## Scene
+## <a name="scene"></a>Scene
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/scene.css`
 ##### Styles:
 ```
@@ -118,7 +135,7 @@ scene-bold
 scene-light
 scene-regular
 ```
-## Solomon
+## <a name="solomon"></a>Solomon
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/solomon.css`
 ##### Styles:
 ```
@@ -127,13 +144,13 @@ solomon-bold
 solomon-light
 solomon-normal
 ```
-## Tarnation
+## <a name="tarnation"></a>Tarnation
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/tarnation.css`
 ##### Styles:
 ```
 tarnation
 ```
-## Uni Sans
+## <a name="unisans"></a>Uni Sans
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/unisans.css`
 ##### Styles:
 ```
@@ -152,7 +169,7 @@ unisans-semibold-italic
 unisans-thin
 unisans-thin-italic
 ```
-## Work Sans
+## <a name="worksans"></a>Work Sans
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/worksans.css`
 ##### Styles:
 ```
