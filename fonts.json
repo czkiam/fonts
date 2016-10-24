@@ -25,13 +25,13 @@
     {
       "title": "Helvetica Neue",
       "name": "helveticaneue",
-      "styles": ["Black", "BlackCond", "BlackItalic", "Bold", "BoldCond", "BoldItalic", "Condensed", "Heavy", "HeavyItalic", "Italic", "Light", "LightItalic", "Medium", "MediumItalic", "Regular", "Thin", "ThinItalic", "UltraLight", "UltraLightItalic"],
+      "styles": ["UltraLight", "UltraLightItalic", "Thin", "ThinItalic", "Light", "LightItalic", "Regular", "Italic", "Medium", "Condensed", "Bold", "BoldCond", "BoldItalic", "Heavy", "HeavyItalic", "MediumItalic", "Black", "BlackCond", "BlackItalic"],
       "type": "sans-serif"
     },
     {
       "title": "Lato",
       "name": "lato",
-      "styles": ["black", "bold", "hairline", "light", "medium", "regular", "thin"],
+      "styles": ["hairline", "thin", "light", "regular", "medium", "bold", "black"],
       "type": "sans-serif"
     },
     {

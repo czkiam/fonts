@@ -58,37 +58,37 @@ gotham-black
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/helveticaneue.css");`
 ##### Styles:
 ```
-helveticaneue-Black
-helveticaneue-BlackCond
-helveticaneue-BlackItalic
+helveticaneue-UltraLight
+helveticaneue-UltraLightItalic
+helveticaneue-Thin
+helveticaneue-ThinItalic
+helveticaneue-Light
+helveticaneue-LightItalic
+helveticaneue-Regular
+helveticaneue-Italic
+helveticaneue-Medium
+helveticaneue-Condensed
 helveticaneue-Bold
 helveticaneue-BoldCond
 helveticaneue-BoldItalic
-helveticaneue-Condensed
 helveticaneue-Heavy
 helveticaneue-HeavyItalic
-helveticaneue-Italic
-helveticaneue-Light
-helveticaneue-LightItalic
-helveticaneue-Medium
 helveticaneue-MediumItalic
-helveticaneue-Regular
-helveticaneue-Thin
-helveticaneue-ThinItalic
-helveticaneue-UltraLight
-helveticaneue-UltraLightItalic
+helveticaneue-Black
+helveticaneue-BlackCond
+helveticaneue-BlackItalic
 ```
 ## <a name="lato"></a>Lato
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/lato.css");`
 ##### Styles:
 ```
-lato-black
-lato-bold
 lato-hairline
-lato-light
-lato-medium
-lato-regular
 lato-thin
+lato-light
+lato-regular
+lato-medium
+lato-bold
+lato-black
 ```
 ## <a name="milkshake"></a>Milkshake
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/milkshake.css");`
