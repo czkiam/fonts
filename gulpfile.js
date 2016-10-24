@@ -43,7 +43,7 @@ gulp.task('generate', function() {
           var style = '';
           var fullPath = '';
 
-          readme += '### ' + fontTitle + '\n';
+          readme += '## ' + fontTitle + '\n';
           readme += 'url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/' + fontName + '.css`\n';
           readme += '##### Styles:\n';
           readme += '```\n';

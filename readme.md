@@ -1,7 +1,7 @@
 # Fonts to use
 
 
-### Bellota
+## Bellota
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/bellota.css`
 ##### Styles:
 ```
@@ -12,7 +12,7 @@ bellota-italic
 bellota-bold
 bellota-bold-italic
 ```
-### Gotham
+## Gotham
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css`
 ##### Styles:
 ```
@@ -23,7 +23,7 @@ gotham-light
 gotham-medium
 gotham-thin
 ```
-### Helvetica Neue
+## Helvetica Neue
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/helveticaneue.css`
 ##### Styles:
 ```
@@ -47,7 +47,7 @@ helveticaneue-ThinItalic
 helveticaneue-UltraLight
 helveticaneue-UltraLightItalic
 ```
-### Lato
+## Lato
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/lato.css`
 ##### Styles:
 ```
@@ -59,13 +59,13 @@ lato-medium
 lato-regular
 lato-thin
 ```
-### Milkshake
+## Milkshake
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/milkshake.css`
 ##### Styles:
 ```
 milkshake
 ```
-### Montserrat
+## Montserrat
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/montserrat.css`
 ##### Styles:
 ```
@@ -75,7 +75,7 @@ montserrat-hairline
 montserrat-light
 montserrat-regular
 ```
-### Museo
+## Museo
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/museo.css`
 ##### Styles:
 ```
@@ -83,7 +83,7 @@ museo-bold
 museo-light
 museo-regular
 ```
-### Open Sans
+## Open Sans
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/opensans.css`
 ##### Styles:
 ```
@@ -98,7 +98,7 @@ opensans-regular
 opensans-semibold-italic
 opensans-semibold
 ```
-### PlayFair Display
+## PlayFair Display
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/playfairdisplay.css`
 ##### Styles:
 ```
@@ -109,7 +109,7 @@ playfairdisplay-bolditalic
 playfairdisplay-italic
 playfairdisplay-regular
 ```
-### Scene
+## Scene
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/scene.css`
 ##### Styles:
 ```
@@ -118,7 +118,7 @@ scene-bold
 scene-light
 scene-regular
 ```
-### Solomon
+## Solomon
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/solomon.css`
 ##### Styles:
 ```
@@ -127,13 +127,13 @@ solomon-bold
 solomon-light
 solomon-normal
 ```
-### Tarnation
+## Tarnation
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/tarnation.css`
 ##### Styles:
 ```
 tarnation
 ```
-### Uni Sans
+## Uni Sans
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/unisans.css`
 ##### Styles:
 ```
@@ -152,7 +152,7 @@ unisans-semibold-italic
 unisans-thin
 unisans-thin-italic
 ```
-### Work Sans
+## Work Sans
 url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/worksans.css`
 ##### Styles:
 ```
