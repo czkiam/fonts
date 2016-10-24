@@ -12,7 +12,8 @@
       <h2>{{font.selectedObj.title}}</h2>
       <ul>
         <li ng-repeat="style in font.selectedObj.styles">
-          <span ng-bind="font.selectedObj.name + '-' + style" style="font-family: {{font.selectedObj.name + '-' + style}}"></span>
+          <span ng-if="font.selectedObj.styles.length > 1" ng-bind="font.selectedObj.name + '-' + style" style="font-family: {{font.selectedObj.name + '-' + style}}"></span>
+          <span ng-if="font.selectedObj.styles.length < 2" ng-bind="font.selectedObj.name" style="font-family: {{font.selectedObj.name}}"></span>
         </li>
       </ul>
     </div>
