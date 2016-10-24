@@ -79,7 +79,7 @@ gulp.task('generate', function() {
           readme += '```\n';
         }
         createFile( 'readme.md',
-          '# Fonts to use \n\n\n' + fontList + '***' + readme
+          '# Fonts to use \n\n\n' + fontList + '\n***\n' + readme
         )
         .pipe(gulp.dest('./'))
         return {};
