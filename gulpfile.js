@@ -6,13 +6,11 @@ var gutil = require('gulp-util');
 var fontgen = require('gulp-fontgen');
 
 gulp.task('fonts', function() {
-  return gulp.src("./f/*.{ttf,otf}")
+  return gulp.src("./convert/**/*.{ttf,otf}")
     .pipe(fontgen({
-      dest: "./f2/"
+      dest: "./converted/"
     }));
 });
-
-gulp.task('default', ['fontgen']);
 
 function createFile(filename, string) {
   var src = require('stream').Readable({ objectMode: true })

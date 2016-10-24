@@ -5,15 +5,21 @@
   },
   "fonts": [
     {
-      "title": "Bellota",
-      "name": "bellota",
+      "title": "Aleo",
+      "name": "aleo",
       "styles": ["light", "light-italic", "regular", "italic", "bold", "bold-italic"],
       "type": "serif"
     },
     {
+      "title": "Bellota",
+      "name": "bellota",
+      "styles": ["light", "light-italic", "regular", "italic", "bold", "bold-italic"],
+      "type": "sans-serif"
+    },
+    {
       "title": "Gotham",
       "name": "gotham",
-      "styles": ["black", "bold", "book", "light", "medium", "thin"],
+      "styles": ["thin", "light", "book", "medium", "bold", "black"],
       "type": "sans-serif"
     },
     {
@@ -44,7 +50,7 @@
       "title": "Museo",
       "name": "museo",
       "styles": ["bold", "light", "regular"],
-      "type": "sans-serif"
+      "type": "serif"
     },
     {
       "title": "Open Sans",
@@ -56,7 +62,7 @@
       "title": "PlayFair Display",
       "name": "playfairdisplay",
       "styles": ["black", "blackitalic", "bold", "bolditalic", "italic", "regular"],
-      "type": "sans-serif"
+      "type": "serif"
     },
     {
       "title": "Scene",
