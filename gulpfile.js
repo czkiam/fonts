@@ -13,13 +13,13 @@ gulp.task('pug', function buildHTML() {
   .pipe(gulp.dest('./preview'));
 });
 
-function createCss(filename, string) {
+function createFile(filename, string) {
   var src = require('stream').Readable({ objectMode: true })
   src._read = function () {
     this.push(new gutil.File({
       cwd: "",
       base: "",
-      path: filename + ".css",
+      path: filename,
       contents: new Buffer(string)
     }))
     this.push(null)
@@ -31,17 +31,25 @@ gulp.task('generate', function() {
   return gulp.src('./fonts.json')
     .pipe(json(function(data, file) {
 
+      var readme = '# Fonts to use\n\n\n';
+
         for (var i = 0; i < data.fonts.length; i++) {
           var styles = data.fonts[i].styles
           var content = '';
           var fontName = data.fonts[i].name;
+          var fontTitle = data.fonts[i].title;
           var separator = data.config.separator;
           var path = data.config.path;
           var style = '';
           var fullPath = '';
 
+          readme += '### ' + fontTitle + '\n';
+          readme += 'url: `https://cdn.rawgit.com/psoaresbj/fonts/master/css/' + fontName + '.css`\n';
+          readme += '##### Styles:\n';
+          readme += '```\n';
+
           for (var z = 0; z < styles.length; z++) {
-            if (styles.length > 0) {
+            if (styles.length > 1) {
               style = fontName + separator + styles[z];
             } else {
               style = fontName;
@@ -58,14 +66,20 @@ gulp.task('generate', function() {
             if (z < styles.length -1) {
               content += '\n';
             }
+
+            readme += style + '\n';
           }
-          createCss( data.fonts[i].name,
+          createFile( data.fonts[i].name + '.css',
             content
           )
           .pipe(gulp.dest('./css'))
           console.log('CSS generated for font ', data.fonts[i].name)
-
+          readme += '```\n';
         }
+        createFile( 'readme.md',
+          readme
+        )
+        .pipe(gulp.dest('./'))
         return {};
     }))
 });

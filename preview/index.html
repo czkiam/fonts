@@ -1,8 +1,8 @@
 <html ng-app="app" ng-controller="FontCtrl as font">
   <head>
     <title>Fonts - PSoares</title>
-    <link rel="stylesheet" type="text/css" ng-href="../css/{{font.selectedObj.name}}.css">
-    <link rel="stylesheet" type="text/css" ng-href="../css/museo.css">
+    <link rel="stylesheet" type="text/css" ng-href="style.css">
+    <link ng-if="font.dataLoaded" rel="stylesheet" type="text/css" ng-href="../css/{{font.selectedObj.name}}.css">
   </head>
   <body>
     <div ng-if="font.dataLoaded">
@@ -10,42 +10,15 @@
         ng-options="option.title for option in font.data track by option.name"
         ng-model="font.selectedObj">
       </select>
+      <input type="text" ng-model="font.inputDemo" placeholder="Write something..."></input>
       <ul>
         <li ng-repeat="style in font.selectedObj.styles">
-          <span ng-if="font.selectedObj.styles.length > 1" ng-bind="font.selectedObj.name + '-' + style" ng-style="{'font-family': font.selectedObj.name + '-' + style}"></span>
-          <span ng-if="font.selectedObj.styles.length < 2" ng-bind="font.selectedObj.name" ng-style="{'font-family': font.selectedObj.name}"></span>
+          <span ng-if="font.selectedObj.styles.length > 1" ng-bind="font.inputDemo || font.selectedObj.name + '-' + style" ng-style="{'font-family': font.selectedObj.name + '-' + style}"></span>
+          <span ng-if="font.selectedObj.styles.length < 2" ng-bind="font.inputDemo || font.selectedObj.name" ng-style="{'font-family': font.selectedObj.name}"></span>
         </li>
       </ul>
     </div>
-    <p style="font-family: museo-bold">
-      teste
-    </p>
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
-  <script type="text/javascript">
-    var app = angular.module('app', []);
-
-    app.controller('FontCtrl', function($scope, $http) {
-
-    var vm = this;
-    vm.selected = 'lato';
-    vm.selectedObj = {};
-
-    getFont = function() {
-      for (var i = 0; i < vm.data.length; i++) {
-        if (vm.data[i].name === vm.selected) {
-          vm.selectedObj = vm.data[i];
-          console.log(vm.selectedObj)
-          vm.dataLoaded = true;
-        }
-      }
-    }
-
-    $http.get('https://cdn.rawgit.com/psoaresbj/fonts/master/fonts.json')
-         .then(function(res){
-            vm.data = res.data.fonts;
-            getFont();
-          });
-    });
-  </script>
+  <script src="core.js"></script>
 </html>
