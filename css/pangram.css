@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "pangram-black";
+  src: url("../fonts/pangram/pangram-black.eot");
+  src: url("../fonts/pangram/pangram-black.eot?#iefix") format("embedded-opentype"), url("../fonts/pangram/pangram-black.woff") format("woff"), url("../fonts/pangram/pangram-black.ttf") format("truetype"), url("../fonts/pangram/pangram-black.svg") format("svg"); }
+
+@font-face {
+  font-family: "pangram-bold";
+  src: url("../fonts/pangram/pangram-bold.eot");
+  src: url("../fonts/pangram/pangram-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/pangram/pangram-bold.woff") format("woff"), url("../fonts/pangram/pangram-bold.ttf") format("truetype"), url("../fonts/pangram/pangram-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "pangram-extrabold";
+  src: url("../fonts/pangram/pangram-extrabold.eot");
+  src: url("../fonts/pangram/pangram-extrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/pangram/pangram-extrabold.woff") format("woff"), url("../fonts/pangram/pangram-extrabold.ttf") format("truetype"), url("../fonts/pangram/pangram-extrabold.svg") format("svg"); }
+
+@font-face {
+  font-family: "pangram-extralight";
+  src: url("../fonts/pangram/pangram-extralight.eot");
+  src: url("../fonts/pangram/pangram-extralight.eot?#iefix") format("embedded-opentype"), url("../fonts/pangram/pangram-extralight.woff") format("woff"), url("../fonts/pangram/pangram-extralight.ttf") format("truetype"), url("../fonts/pangram/pangram-extralight.svg") format("svg"); }
+
+@font-face {
+  font-family: "pangram-light";
+  src: url("../fonts/pangram/pangram-light.eot");
+  src: url("../fonts/pangram/pangram-light.eot?#iefix") format("embedded-opentype"), url("../fonts/pangram/pangram-light.woff") format("woff"), url("../fonts/pangram/pangram-light.ttf") format("truetype"), url("../fonts/pangram/pangram-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "pangram-medium";
+  src: url("../fonts/pangram/pangram-medium.eot");
+  src: url("../fonts/pangram/pangram-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/pangram/pangram-medium.woff") format("woff"), url("../fonts/pangram/pangram-medium.ttf") format("truetype"), url("../fonts/pangram/pangram-medium.svg") format("svg"); }
+
+@font-face {
+  font-family: "pangram-regular";
+  src: url("../fonts/pangram/pangram-regular.eot");
+  src: url("../fonts/pangram/pangram-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/pangram/pangram-regular.woff") format("woff"), url("../fonts/pangram/pangram-regular.ttf") format("truetype"), url("../fonts/pangram/pangram-regular.svg") format("svg"); }

@@ -4,6 +4,17 @@ var gulp = require('gulp');
 var json = require('gulp-json-transform');
 var gutil = require('gulp-util');
 var fontgen = require('gulp-fontgen');
+var browserSync = require('browser-sync').create();
+
+// Static server
+gulp.task('preview', function() {
+    browserSync.init({
+        server: {
+            baseDir: "./"
+        }
+    });
+});
+
 
 gulp.task('fonts', function() {
   return gulp.src("./convert/**/*.{ttf,otf}")

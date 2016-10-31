@@ -11,6 +11,7 @@
 * [Montserrat](#montserrat)
 * [Museo](#museo)
 * [Open Sans](#opensans)
+* [Pangram](#pangram)
 * [PlayFair Display](#playfairdisplay)
 * [Scene](#scene)
 * [Solomon](#solomon)
@@ -128,6 +129,18 @@ opensans-light
 opensans-regular
 opensans-semibold-italic
 opensans-semibold
+```
+## <a name="pangram"></a>Pangram
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/pangram.css");`
+##### Styles:
+```
+pangram-black
+pangram-bold
+pangram-extrabold
+pangram-extralight
+pangram-light
+pangram-medium
+pangram-regular
 ```
 ## <a name="playfairdisplay"></a>PlayFair Display
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/playfairdisplay.css");`

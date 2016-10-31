@@ -59,6 +59,12 @@
       "type": "sans-serif"
     },
     {
+      "title": "Pangram",
+      "name": "pangram",
+      "styles": ["black", "bold", "extrabold", "extralight", "light", "medium", "regular"],
+      "type": "sans-serif"
+    },
+    {
       "title": "PlayFair Display",
       "name": "playfairdisplay",
       "styles": ["black", "blackitalic", "bold", "bolditalic", "italic", "regular"],
