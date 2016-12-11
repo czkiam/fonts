@@ -11,6 +11,18 @@
       "type": "serif"
     },
     {
+      "title": "Arista",
+      "name": "arista",
+      "styles": ["light", "bold"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Bebas Neue",
+      "name": "bebasneue",
+      "styles": ["thin", "light", "book", "regular", "bold"],
+      "type": "sans-serif"
+    },
+    {
       "title": "Bellota",
       "name": "bellota",
       "styles": ["light", "light-italic", "regular", "italic", "bold", "bold-italic"],

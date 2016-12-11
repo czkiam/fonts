@@ -3,6 +3,8 @@
 
 ## Font list:
 * [Aleo](#aleo)
+* [Arista](#arista)
+* [Bebas Neue](#bebasneue)
 * [Bellota](#bellota)
 * [Gotham](#gotham)
 * [Helvetica Neue](#helveticaneue)
@@ -32,6 +34,23 @@ aleo-regular
 aleo-italic
 aleo-bold
 aleo-bold-italic
+```
+## <a name="arista"></a>Arista
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/arista.css");`
+##### Styles:
+```
+arista-light
+arista-bold
+```
+## <a name="bebasneue"></a>Bebas Neue
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/bebasneue.css");`
+##### Styles:
+```
+bebasneue-thin
+bebasneue-light
+bebasneue-book
+bebasneue-regular
+bebasneue-bold
 ```
 ## <a name="bellota"></a>Bellota
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/bellota.css");`

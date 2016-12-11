@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "arista-light";
+  src: url("../fonts/arista/arista-light.eot");
+  src: url("../fonts/arista/arista-light.eot?#iefix") format("embedded-opentype"), url("../fonts/arista/arista-light.woff") format("woff"), url("../fonts/arista/arista-light.ttf") format("truetype"), url("../fonts/arista/arista-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "arista-bold";
+  src: url("../fonts/arista/arista-bold.eot");
+  src: url("../fonts/arista/arista-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/arista/arista-bold.woff") format("woff"), url("../fonts/arista/arista-bold.ttf") format("truetype"), url("../fonts/arista/arista-bold.svg") format("svg"); }
