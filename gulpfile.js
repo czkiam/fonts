@@ -7,7 +7,7 @@ var fontgen = require('gulp-fontgen');
 var browserSync = require('browser-sync').create();
 
 // Static server
-gulp.task('preview', function() {
+gulp.task('serve', function() {
     browserSync.init({
         server: {
             baseDir: "./"

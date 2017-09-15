@@ -6,12 +6,15 @@
 * [Arista](#arista)
 * [Bebas Neue](#bebasneue)
 * [Bellota](#bellota)
+* [Geometria](#geometria)
+* [Gudea](#gudea)
 * [Gotham](#gotham)
 * [Helvetica Neue](#helveticaneue)
 * [Lato](#lato)
 * [Milkshake](#milkshake)
 * [Montserrat](#montserrat)
 * [Museo](#museo)
+* [New June](#newjune)
 * [Open Sans](#opensans)
 * [Pangram](#pangram)
 * [PlayFair Display](#playfairdisplay)
@@ -62,6 +65,35 @@ bellota-regular
 bellota-italic
 bellota-bold
 bellota-bold-italic
+```
+## <a name="geometria"></a>Geometria
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/geometria.css");`
+##### Styles:
+```
+geometria-bold
+geometria-bold-italic
+geometria-extrablack
+geometria-extrablack-italic
+geometria-extralight
+geometria-extralight-italic
+geometria-heavy-italic
+geometria-heavy
+geometria-light-italic
+geometria-light
+geometria-medium-italic
+geometria-medium
+geometria-regular-italic
+geometria-regular
+geometria-thin-italic
+geometria-thin
+```
+## <a name="gudea"></a>Gudea
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gudea.css");`
+##### Styles:
+```
+gudea-bold
+gudea-italic
+gudea-regular
 ```
 ## <a name="gotham"></a>Gotham
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css");`
@@ -133,6 +165,33 @@ montserrat-regular
 museo-bold
 museo-light
 museo-regular
+```
+## <a name="newjune"></a>New June
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/newjune.css");`
+##### Styles:
+```
+newjune-bold-italic
+newjune-bold
+newjune-book-italic
+newjune-book
+newjune-extrabold-italic
+newjune-extrabold
+newjune-fine-italic
+newjune-fine
+newjune-heavy-italic
+newjune-heavy
+newjune-light-italic
+newjune-light
+newjune-medium-italic
+newjune-medium
+newjune-regular-italic
+newjune-regular
+newjune-semibold-italic
+newjune-semibold
+newjune-thin-italic
+newjune-thin
+newjune-ultrabold-italic
+newjune-ultrabold
 ```
 ## <a name="opensans"></a>Open Sans
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/opensans.css");`

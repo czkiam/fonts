@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "newjune-bold-italic";
+  src: url("../fonts/newjune/newjune-bold-italic.eot");
+  src: url("../fonts/newjune/newjune-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-bold-italic.woff") format("woff"), url("../fonts/newjune/newjune-bold-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-bold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-bold";
+  src: url("../fonts/newjune/newjune-bold.eot");
+  src: url("../fonts/newjune/newjune-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-bold.woff") format("woff"), url("../fonts/newjune/newjune-bold.ttf") format("truetype"), url("../fonts/newjune/newjune-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-book-italic";
+  src: url("../fonts/newjune/newjune-book-italic.eot");
+  src: url("../fonts/newjune/newjune-book-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-book-italic.woff") format("woff"), url("../fonts/newjune/newjune-book-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-book-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-book";
+  src: url("../fonts/newjune/newjune-book.eot");
+  src: url("../fonts/newjune/newjune-book.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-book.woff") format("woff"), url("../fonts/newjune/newjune-book.ttf") format("truetype"), url("../fonts/newjune/newjune-book.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-extrabold-italic";
+  src: url("../fonts/newjune/newjune-extrabold-italic.eot");
+  src: url("../fonts/newjune/newjune-extrabold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-extrabold-italic.woff") format("woff"), url("../fonts/newjune/newjune-extrabold-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-extrabold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-extrabold";
+  src: url("../fonts/newjune/newjune-extrabold.eot");
+  src: url("../fonts/newjune/newjune-extrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-extrabold.woff") format("woff"), url("../fonts/newjune/newjune-extrabold.ttf") format("truetype"), url("../fonts/newjune/newjune-extrabold.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-fine-italic";
+  src: url("../fonts/newjune/newjune-fine-italic.eot");
+  src: url("../fonts/newjune/newjune-fine-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-fine-italic.woff") format("woff"), url("../fonts/newjune/newjune-fine-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-fine-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-fine";
+  src: url("../fonts/newjune/newjune-fine.eot");
+  src: url("../fonts/newjune/newjune-fine.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-fine.woff") format("woff"), url("../fonts/newjune/newjune-fine.ttf") format("truetype"), url("../fonts/newjune/newjune-fine.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-heavy-italic";
+  src: url("../fonts/newjune/newjune-heavy-italic.eot");
+  src: url("../fonts/newjune/newjune-heavy-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-heavy-italic.woff") format("woff"), url("../fonts/newjune/newjune-heavy-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-heavy-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-heavy";
+  src: url("../fonts/newjune/newjune-heavy.eot");
+  src: url("../fonts/newjune/newjune-heavy.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-heavy.woff") format("woff"), url("../fonts/newjune/newjune-heavy.ttf") format("truetype"), url("../fonts/newjune/newjune-heavy.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-light-italic";
+  src: url("../fonts/newjune/newjune-light-italic.eot");
+  src: url("../fonts/newjune/newjune-light-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-light-italic.woff") format("woff"), url("../fonts/newjune/newjune-light-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-light-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-light";
+  src: url("../fonts/newjune/newjune-light.eot");
+  src: url("../fonts/newjune/newjune-light.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-light.woff") format("woff"), url("../fonts/newjune/newjune-light.ttf") format("truetype"), url("../fonts/newjune/newjune-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-medium-italic";
+  src: url("../fonts/newjune/newjune-medium-italic.eot");
+  src: url("../fonts/newjune/newjune-medium-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-medium-italic.woff") format("woff"), url("../fonts/newjune/newjune-medium-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-medium-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-medium";
+  src: url("../fonts/newjune/newjune-medium.eot");
+  src: url("../fonts/newjune/newjune-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-medium.woff") format("woff"), url("../fonts/newjune/newjune-medium.ttf") format("truetype"), url("../fonts/newjune/newjune-medium.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-regular-italic";
+  src: url("../fonts/newjune/newjune-regular-italic.eot");
+  src: url("../fonts/newjune/newjune-regular-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-regular-italic.woff") format("woff"), url("../fonts/newjune/newjune-regular-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-regular-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-regular";
+  src: url("../fonts/newjune/newjune-regular.eot");
+  src: url("../fonts/newjune/newjune-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-regular.woff") format("woff"), url("../fonts/newjune/newjune-regular.ttf") format("truetype"), url("../fonts/newjune/newjune-regular.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-semibold-italic";
+  src: url("../fonts/newjune/newjune-semibold-italic.eot");
+  src: url("../fonts/newjune/newjune-semibold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-semibold-italic.woff") format("woff"), url("../fonts/newjune/newjune-semibold-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-semibold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-semibold";
+  src: url("../fonts/newjune/newjune-semibold.eot");
+  src: url("../fonts/newjune/newjune-semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-semibold.woff") format("woff"), url("../fonts/newjune/newjune-semibold.ttf") format("truetype"), url("../fonts/newjune/newjune-semibold.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-thin-italic";
+  src: url("../fonts/newjune/newjune-thin-italic.eot");
+  src: url("../fonts/newjune/newjune-thin-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-thin-italic.woff") format("woff"), url("../fonts/newjune/newjune-thin-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-thin-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-thin";
+  src: url("../fonts/newjune/newjune-thin.eot");
+  src: url("../fonts/newjune/newjune-thin.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-thin.woff") format("woff"), url("../fonts/newjune/newjune-thin.ttf") format("truetype"), url("../fonts/newjune/newjune-thin.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-ultrabold-italic";
+  src: url("../fonts/newjune/newjune-ultrabold-italic.eot");
+  src: url("../fonts/newjune/newjune-ultrabold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-ultrabold-italic.woff") format("woff"), url("../fonts/newjune/newjune-ultrabold-italic.ttf") format("truetype"), url("../fonts/newjune/newjune-ultrabold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "newjune-ultrabold";
+  src: url("../fonts/newjune/newjune-ultrabold.eot");
+  src: url("../fonts/newjune/newjune-ultrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/newjune/newjune-ultrabold.woff") format("woff"), url("../fonts/newjune/newjune-ultrabold.ttf") format("truetype"), url("../fonts/newjune/newjune-ultrabold.svg") format("svg"); }

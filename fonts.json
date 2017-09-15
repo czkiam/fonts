@@ -29,6 +29,18 @@
       "type": "sans-serif"
     },
     {
+      "title": "Geometria",
+      "name": "geometria",
+      "styles": [ "bold", "bold-italic", "extrablack", "extrablack-italic", "extralight", "extralight-italic", "heavy-italic", "heavy", "light-italic", "light", "medium-italic", "medium", "regular-italic", "regular", "thin-italic", "thin" ],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Gudea",
+      "name": "gudea",
+      "styles": [ "bold", "italic", "regular" ],
+      "type": "sans-serif"
+    },
+    {
       "title": "Gotham",
       "name": "gotham",
       "styles": ["thin", "light", "book", "medium", "bold", "black"],
@@ -63,6 +75,12 @@
       "name": "museo",
       "styles": ["bold", "light", "regular"],
       "type": "serif"
+    },
+    {
+      "title": "New June",
+      "name": "newjune",
+      "styles": [ "bold-italic", "bold", "book-italic", "book", "extrabold-italic", "extrabold", "fine-italic", "fine", "heavy-italic", "heavy", "light-italic", "light", "medium-italic", "medium", "regular-italic", "regular", "semibold-italic", "semibold", "thin-italic", "thin", "ultrabold-italic", "ultrabold" ],
+      "type": "sans-serif"
     },
     {
       "title": "Open Sans",

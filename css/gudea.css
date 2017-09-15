@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "gudea-bold";
+  src: url("../fonts/gudea/gudea-bold.eot");
+  src: url("../fonts/gudea/gudea-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/gudea/gudea-bold.woff") format("woff"), url("../fonts/gudea/gudea-bold.ttf") format("truetype"), url("../fonts/gudea/gudea-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "gudea-italic";
+  src: url("../fonts/gudea/gudea-italic.eot");
+  src: url("../fonts/gudea/gudea-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/gudea/gudea-italic.woff") format("woff"), url("../fonts/gudea/gudea-italic.ttf") format("truetype"), url("../fonts/gudea/gudea-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "gudea-regular";
+  src: url("../fonts/gudea/gudea-regular.eot");
+  src: url("../fonts/gudea/gudea-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/gudea/gudea-regular.woff") format("woff"), url("../fonts/gudea/gudea-regular.ttf") format("truetype"), url("../fonts/gudea/gudea-regular.svg") format("svg"); }
