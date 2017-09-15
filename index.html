@@ -2,8 +2,8 @@
 <html ng-app="app" ng-controller="FontCtrl as font">
   <head>
     <title>Fonts - PSoares</title>
-    <link rel="stylesheet" type="text/css" ng-href="style.css">
-    <link ng-if="font.dataLoaded" rel="stylesheet" type="text/css" ng-href="../css/{{font.selectedObj.name}}.css">
+    <link rel="stylesheet" type="text/css" ng-href="preview/style.css">
+    <link ng-if="font.dataLoaded" rel="stylesheet" type="text/css" ng-href="css/{{font.selectedObj.name}}.css">
   </head>
   <body>
     <div class="wrapper" ng-if="font.dataLoaded">
@@ -26,5 +26,5 @@
     </div>
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
-  <script src="core.js"></script>
+  <script src="preview/core.js"></script>
 </html>
