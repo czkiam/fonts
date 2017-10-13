@@ -6,9 +6,10 @@
 * [Arista](#arista)
 * [Bebas Neue](#bebasneue)
 * [Bellota](#bellota)
+* [Canaro](#canaro)
 * [Geometria](#geometria)
-* [Gudea](#gudea)
 * [Gotham](#gotham)
+* [Gudea](#gudea)
 * [Helvetica Neue](#helveticaneue)
 * [Lato](#lato)
 * [Milkshake](#milkshake)
@@ -66,6 +67,29 @@ bellota-italic
 bellota-bold
 bellota-bold-italic
 ```
+## <a name="canaro"></a>Canaro
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/canaro.css");`
+##### Styles:
+```
+canaro-black-italic
+canaro-black
+canaro-bold-italic
+canaro-bold
+canaro-extrabold-italic
+canaro-extrabold
+canaro-extralight-italic
+canaro-extralight
+canaro-italic
+canaro-light-italic
+canaro-light
+canaro-medium-italic
+canaro-medium
+canaro-regular
+canaro-semibold-italic
+canaro-semibold
+canaro-thin-italic
+canaro-thin
+```
 ## <a name="geometria"></a>Geometria
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/geometria.css");`
 ##### Styles:
@@ -87,14 +111,6 @@ geometria-regular
 geometria-thin-italic
 geometria-thin
 ```
-## <a name="gudea"></a>Gudea
-`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gudea.css");`
-##### Styles:
-```
-gudea-bold
-gudea-italic
-gudea-regular
-```
 ## <a name="gotham"></a>Gotham
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css");`
 ##### Styles:
@@ -105,6 +121,14 @@ gotham-book
 gotham-medium
 gotham-bold
 gotham-black
+```
+## <a name="gudea"></a>Gudea
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gudea.css");`
+##### Styles:
+```
+gudea-bold
+gudea-italic
+gudea-regular
 ```
 ## <a name="helveticaneue"></a>Helvetica Neue
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/helveticaneue.css");`

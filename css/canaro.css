@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "canaro-black-italic";
+  src: url("../fonts/canaro/canaro-black-italic.eot");
+  src: url("../fonts/canaro/canaro-black-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-black-italic.woff") format("woff"), url("../fonts/canaro/canaro-black-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-black-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-black";
+  src: url("../fonts/canaro/canaro-black.eot");
+  src: url("../fonts/canaro/canaro-black.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-black.woff") format("woff"), url("../fonts/canaro/canaro-black.ttf") format("truetype"), url("../fonts/canaro/canaro-black.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-bold-italic";
+  src: url("../fonts/canaro/canaro-bold-italic.eot");
+  src: url("../fonts/canaro/canaro-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-bold-italic.woff") format("woff"), url("../fonts/canaro/canaro-bold-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-bold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-bold";
+  src: url("../fonts/canaro/canaro-bold.eot");
+  src: url("../fonts/canaro/canaro-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-bold.woff") format("woff"), url("../fonts/canaro/canaro-bold.ttf") format("truetype"), url("../fonts/canaro/canaro-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-extrabold-italic";
+  src: url("../fonts/canaro/canaro-extrabold-italic.eot");
+  src: url("../fonts/canaro/canaro-extrabold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-extrabold-italic.woff") format("woff"), url("../fonts/canaro/canaro-extrabold-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-extrabold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-extrabold";
+  src: url("../fonts/canaro/canaro-extrabold.eot");
+  src: url("../fonts/canaro/canaro-extrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-extrabold.woff") format("woff"), url("../fonts/canaro/canaro-extrabold.ttf") format("truetype"), url("../fonts/canaro/canaro-extrabold.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-extralight-italic";
+  src: url("../fonts/canaro/canaro-extralight-italic.eot");
+  src: url("../fonts/canaro/canaro-extralight-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-extralight-italic.woff") format("woff"), url("../fonts/canaro/canaro-extralight-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-extralight-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-extralight";
+  src: url("../fonts/canaro/canaro-extralight.eot");
+  src: url("../fonts/canaro/canaro-extralight.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-extralight.woff") format("woff"), url("../fonts/canaro/canaro-extralight.ttf") format("truetype"), url("../fonts/canaro/canaro-extralight.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-italic";
+  src: url("../fonts/canaro/canaro-italic.eot");
+  src: url("../fonts/canaro/canaro-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-italic.woff") format("woff"), url("../fonts/canaro/canaro-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-light-italic";
+  src: url("../fonts/canaro/canaro-light-italic.eot");
+  src: url("../fonts/canaro/canaro-light-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-light-italic.woff") format("woff"), url("../fonts/canaro/canaro-light-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-light-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-light";
+  src: url("../fonts/canaro/canaro-light.eot");
+  src: url("../fonts/canaro/canaro-light.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-light.woff") format("woff"), url("../fonts/canaro/canaro-light.ttf") format("truetype"), url("../fonts/canaro/canaro-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-medium-italic";
+  src: url("../fonts/canaro/canaro-medium-italic.eot");
+  src: url("../fonts/canaro/canaro-medium-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-medium-italic.woff") format("woff"), url("../fonts/canaro/canaro-medium-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-medium-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-medium";
+  src: url("../fonts/canaro/canaro-medium.eot");
+  src: url("../fonts/canaro/canaro-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-medium.woff") format("woff"), url("../fonts/canaro/canaro-medium.ttf") format("truetype"), url("../fonts/canaro/canaro-medium.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-regular";
+  src: url("../fonts/canaro/canaro-regular.eot");
+  src: url("../fonts/canaro/canaro-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-regular.woff") format("woff"), url("../fonts/canaro/canaro-regular.ttf") format("truetype"), url("../fonts/canaro/canaro-regular.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-semibold-italic";
+  src: url("../fonts/canaro/canaro-semibold-italic.eot");
+  src: url("../fonts/canaro/canaro-semibold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-semibold-italic.woff") format("woff"), url("../fonts/canaro/canaro-semibold-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-semibold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-semibold";
+  src: url("../fonts/canaro/canaro-semibold.eot");
+  src: url("../fonts/canaro/canaro-semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-semibold.woff") format("woff"), url("../fonts/canaro/canaro-semibold.ttf") format("truetype"), url("../fonts/canaro/canaro-semibold.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-thin-italic";
+  src: url("../fonts/canaro/canaro-thin-italic.eot");
+  src: url("../fonts/canaro/canaro-thin-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-thin-italic.woff") format("woff"), url("../fonts/canaro/canaro-thin-italic.ttf") format("truetype"), url("../fonts/canaro/canaro-thin-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "canaro-thin";
+  src: url("../fonts/canaro/canaro-thin.eot");
+  src: url("../fonts/canaro/canaro-thin.eot?#iefix") format("embedded-opentype"), url("../fonts/canaro/canaro-thin.woff") format("woff"), url("../fonts/canaro/canaro-thin.ttf") format("truetype"), url("../fonts/canaro/canaro-thin.svg") format("svg"); }

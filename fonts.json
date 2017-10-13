@@ -29,21 +29,27 @@
       "type": "sans-serif"
     },
     {
+      "title": "Canaro",
+      "name": "canaro",
+      "styles": ["black-italic", "black", "bold-italic", "bold", "extrabold-italic", "extrabold", "extralight-italic", "extralight", "italic", "light-italic", "light", "medium-italic", "medium", "regular", "semibold-italic", "semibold", "thin-italic", "thin"],
+      "type": "sans-serif"
+    },
+    {
       "title": "Geometria",
       "name": "geometria",
-      "styles": [ "bold", "bold-italic", "extrablack", "extrablack-italic", "extralight", "extralight-italic", "heavy-italic", "heavy", "light-italic", "light", "medium-italic", "medium", "regular-italic", "regular", "thin-italic", "thin" ],
+      "styles": ["bold", "bold-italic", "extrablack", "extrablack-italic", "extralight", "extralight-italic", "heavy-italic", "heavy", "light-italic", "light", "medium-italic", "medium", "regular-italic", "regular", "thin-italic", "thin"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Gotham",
+      "name": "gotham",
+      "styles": [ "thin", "light", "book", "medium", "bold", "black" ],
       "type": "sans-serif"
     },
     {
       "title": "Gudea",
       "name": "gudea",
       "styles": [ "bold", "italic", "regular" ],
-      "type": "sans-serif"
-    },
-    {
-      "title": "Gotham",
-      "name": "gotham",
-      "styles": ["thin", "light", "book", "medium", "bold", "black"],
       "type": "sans-serif"
     },
     {
