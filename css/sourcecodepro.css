@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "sourcecodepro-black-italic";
+  src: url("../fonts/sourcecodepro/sourcecodepro-black-italic.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-black-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-black-italic.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-black-italic.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-black-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-black";
+  src: url("../fonts/sourcecodepro/sourcecodepro-black.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-black.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-black.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-black.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-black.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-bold-italic";
+  src: url("../fonts/sourcecodepro/sourcecodepro-bold-italic.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-bold-italic.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-bold-italic.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-bold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-bold";
+  src: url("../fonts/sourcecodepro/sourcecodepro-bold.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-bold.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-bold.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-extralight-italic";
+  src: url("../fonts/sourcecodepro/sourcecodepro-extralight-italic.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-extralight-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-extralight-italic.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-extralight-italic.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-extralight-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-extralight";
+  src: url("../fonts/sourcecodepro/sourcecodepro-extralight.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-extralight.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-extralight.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-extralight.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-extralight.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-italic";
+  src: url("../fonts/sourcecodepro/sourcecodepro-italic.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-italic.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-italic.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-light-italic";
+  src: url("../fonts/sourcecodepro/sourcecodepro-light-italic.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-light-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-light-italic.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-light-italic.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-light-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-light";
+  src: url("../fonts/sourcecodepro/sourcecodepro-light.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-light.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-light.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-light.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-medium-italic";
+  src: url("../fonts/sourcecodepro/sourcecodepro-medium-italic.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-medium-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-medium-italic.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-medium-italic.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-medium-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-medium";
+  src: url("../fonts/sourcecodepro/sourcecodepro-medium.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-medium.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-medium.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-medium.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-regular";
+  src: url("../fonts/sourcecodepro/sourcecodepro-regular.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-regular.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-regular.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-regular.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-semibold-italic";
+  src: url("../fonts/sourcecodepro/sourcecodepro-semibold-italic.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-semibold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-semibold-italic.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-semibold-italic.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-semibold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "sourcecodepro-semibold";
+  src: url("../fonts/sourcecodepro/sourcecodepro-semibold.eot");
+  src: url("../fonts/sourcecodepro/sourcecodepro-semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/sourcecodepro/sourcecodepro-semibold.woff") format("woff"), url("../fonts/sourcecodepro/sourcecodepro-semibold.ttf") format("truetype"), url("../fonts/sourcecodepro/sourcecodepro-semibold.svg") format("svg"); }

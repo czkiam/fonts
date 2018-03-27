@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "abhayalibre-bold";
+  src: url("../fonts/abhayalibre/abhayalibre-bold.eot");
+  src: url("../fonts/abhayalibre/abhayalibre-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/abhayalibre/abhayalibre-bold.woff") format("woff"), url("../fonts/abhayalibre/abhayalibre-bold.ttf") format("truetype"), url("../fonts/abhayalibre/abhayalibre-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "abhayalibre-extrabold";
+  src: url("../fonts/abhayalibre/abhayalibre-extrabold.eot");
+  src: url("../fonts/abhayalibre/abhayalibre-extrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/abhayalibre/abhayalibre-extrabold.woff") format("woff"), url("../fonts/abhayalibre/abhayalibre-extrabold.ttf") format("truetype"), url("../fonts/abhayalibre/abhayalibre-extrabold.svg") format("svg"); }
+
+@font-face {
+  font-family: "abhayalibre-medium";
+  src: url("../fonts/abhayalibre/abhayalibre-medium.eot");
+  src: url("../fonts/abhayalibre/abhayalibre-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/abhayalibre/abhayalibre-medium.woff") format("woff"), url("../fonts/abhayalibre/abhayalibre-medium.ttf") format("truetype"), url("../fonts/abhayalibre/abhayalibre-medium.svg") format("svg"); }
+
+@font-face {
+  font-family: "abhayalibre-regular";
+  src: url("../fonts/abhayalibre/abhayalibre-regular.eot");
+  src: url("../fonts/abhayalibre/abhayalibre-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/abhayalibre/abhayalibre-regular.woff") format("woff"), url("../fonts/abhayalibre/abhayalibre-regular.ttf") format("truetype"), url("../fonts/abhayalibre/abhayalibre-regular.svg") format("svg"); }
+
+@font-face {
+  font-family: "abhayalibre-semibold";
+  src: url("../fonts/abhayalibre/abhayalibre-semibold.eot");
+  src: url("../fonts/abhayalibre/abhayalibre-semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/abhayalibre/abhayalibre-semibold.woff") format("woff"), url("../fonts/abhayalibre/abhayalibre-semibold.ttf") format("truetype"), url("../fonts/abhayalibre/abhayalibre-semibold.svg") format("svg"); }

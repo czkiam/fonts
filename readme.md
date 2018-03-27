@@ -2,12 +2,15 @@
 
 
 ## Font list:
+* [Abhaya Libre](#abhayalibre)
 * [Aleo](#aleo)
 * [Arista](#arista)
 * [Bebas Neue](#bebasneue)
 * [Bellota](#bellota)
 * [Canaro](#canaro)
+* [Fira Sans](#firasans)
 * [Geometria](#geometria)
+* [Gilroy](#gilroy)
 * [Gotham](#gotham)
 * [Gudea](#gudea)
 * [Helvetica Neue](#helveticaneue)
@@ -19,15 +22,28 @@
 * [Open Sans](#opensans)
 * [Pangram](#pangram)
 * [PlayFair Display](#playfairdisplay)
+* [Proxima Nova](#proximanova)
 * [Scene](#scene)
 * [Solomon](#solomon)
+* [Source Code Pro](#sourcecodepro)
 * [Tarnation](#tarnation)
 * [Uni Sans](#unisans)
+* [Volkswagen](#vw)
 * [Work Sans](#worksans)
 
 ***
 
 
+## <a name="abhayalibre"></a>Abhaya Libre
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/abhayalibre.css");`
+##### Styles:
+```
+abhayalibre-bold
+abhayalibre-extrabold
+abhayalibre-medium
+abhayalibre-regular
+abhayalibre-semibold
+```
 ## <a name="aleo"></a>Aleo
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/aleo.css");`
 ##### Styles:
@@ -90,6 +106,35 @@ canaro-semibold
 canaro-thin-italic
 canaro-thin
 ```
+## <a name="firasans"></a>Fira Sans
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/firasans.css");`
+##### Styles:
+```
+firasans-bold-italic
+firasans-bold
+firasans-extra-bold-italic
+firasans-extra-bold
+firasans-extra-light-italic
+firasans-extra-light
+firasans-hair-italic
+firasans-hair
+firasans-heavy-italic
+firasans-heavy
+firasans-italic
+firasans-light-italic
+firasans-light
+firasans-medium-italic
+firasans-medium
+firasans-regular
+firasans-semi-bold-italic
+firasans-semi-bold
+firasans-thin-italic
+firasans-thin
+firasans-ultra-italic
+firasans-ultra-light-italic
+firasans-ultra-light
+firasans-ultra
+```
 ## <a name="geometria"></a>Geometria
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/geometria.css");`
 ##### Styles:
@@ -110,6 +155,13 @@ geometria-regular-italic
 geometria-regular
 geometria-thin-italic
 geometria-thin
+```
+## <a name="gilroy"></a>Gilroy
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gilroy.css");`
+##### Styles:
+```
+gilroy-extrabold
+gilroy-light
 ```
 ## <a name="gotham"></a>Gotham
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/gotham.css");`
@@ -255,6 +307,25 @@ playfairdisplay-bolditalic
 playfairdisplay-italic
 playfairdisplay-regular
 ```
+## <a name="proximanova"></a>Proxima Nova
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/proximanova.css");`
+##### Styles:
+```
+proximanova-black-italic
+proximanova-black
+proximanova-bold-italic
+proximanova-bold
+proximanova-extrabold-italic
+proximanova-extrabold
+proximanova-light-italic
+proximanova-light
+proximanova-regular-italic
+proximanova-regular
+proximanova-semibold-italic
+proximanova-semibold
+proximanova-thin-italic
+proximanova-thin
+```
 ## <a name="scene"></a>Scene
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/scene.css");`
 ##### Styles:
@@ -272,6 +343,25 @@ solomon-black
 solomon-bold
 solomon-light
 solomon-normal
+```
+## <a name="sourcecodepro"></a>Source Code Pro
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/sourcecodepro.css");`
+##### Styles:
+```
+sourcecodepro-black-italic
+sourcecodepro-black
+sourcecodepro-bold-italic
+sourcecodepro-bold
+sourcecodepro-extralight-italic
+sourcecodepro-extralight
+sourcecodepro-italic
+sourcecodepro-light-italic
+sourcecodepro-light
+sourcecodepro-medium-italic
+sourcecodepro-medium
+sourcecodepro-regular
+sourcecodepro-semibold-italic
+sourcecodepro-semibold
 ```
 ## <a name="tarnation"></a>Tarnation
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/tarnation.css");`
@@ -297,6 +387,22 @@ unisans-semibold
 unisans-semibold-italic
 unisans-thin
 unisans-thin-italic
+```
+## <a name="vw"></a>Volkswagen
+`@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/vw.css");`
+##### Styles:
+```
+vw-bold-italic
+vw-bold
+vw-head-bold-italic
+vw-head-bold
+vw-head-extrabold
+vw-head-italic
+vw-head-light
+vw-head-regular
+vw-light
+vw-regular-italic
+vw-regular
 ```
 ## <a name="worksans"></a>Work Sans
 `@import url("https://cdn.rawgit.com/psoaresbj/fonts/master/css/worksans.css");`

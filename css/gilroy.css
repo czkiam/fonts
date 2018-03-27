@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "gilroy-extrabold";
+  src: url("../fonts/gilroy/gilroy-extrabold.eot");
+  src: url("../fonts/gilroy/gilroy-extrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/gilroy/gilroy-extrabold.woff") format("woff"), url("../fonts/gilroy/gilroy-extrabold.ttf") format("truetype"), url("../fonts/gilroy/gilroy-extrabold.svg") format("svg"); }
+
+@font-face {
+  font-family: "gilroy-light";
+  src: url("../fonts/gilroy/gilroy-light.eot");
+  src: url("../fonts/gilroy/gilroy-light.eot?#iefix") format("embedded-opentype"), url("../fonts/gilroy/gilroy-light.woff") format("woff"), url("../fonts/gilroy/gilroy-light.ttf") format("truetype"), url("../fonts/gilroy/gilroy-light.svg") format("svg"); }

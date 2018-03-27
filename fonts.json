@@ -5,6 +5,12 @@
   },
   "fonts": [
     {
+      "title": "Abhaya Libre",
+      "name": "abhayalibre",
+      "styles": ["bold", "extrabold", "medium", "regular", "semibold"],
+      "type": "serif"
+    },
+    {
       "title": "Aleo",
       "name": "aleo",
       "styles": ["light", "light-italic", "regular", "italic", "bold", "bold-italic"],
@@ -35,9 +41,21 @@
       "type": "sans-serif"
     },
     {
+      "title": "Fira Sans",
+      "name": "firasans",
+      "styles": ["bold-italic","bold","extra-bold-italic","extra-bold","extra-light-italic","extra-light","hair-italic","hair","heavy-italic","heavy","italic","light-italic","light","medium-italic","medium","regular","semi-bold-italic","semi-bold","thin-italic","thin","ultra-italic","ultra-light-italic","ultra-light","ultra"],
+      "type": "sans-serif"
+    },
+    {
       "title": "Geometria",
       "name": "geometria",
       "styles": ["bold", "bold-italic", "extrablack", "extrablack-italic", "extralight", "extralight-italic", "heavy-italic", "heavy", "light-italic", "light", "medium-italic", "medium", "regular-italic", "regular", "thin-italic", "thin"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Gilroy",
+      "name": "gilroy",
+      "styles": ["extrabold", "light"],
       "type": "sans-serif"
     },
     {
@@ -107,6 +125,12 @@
       "type": "serif"
     },
     {
+      "title": "Proxima Nova",
+      "name": "proximanova",
+      "styles": ["black-italic", "black", "bold-italic", "bold", "extrabold-italic", "extrabold", "light-italic", "light", "regular-italic", "regular", "semibold-italic", "semibold", "thin-italic", "thin"],
+      "type": "sans-serif"
+    },
+    {
       "title": "Scene",
       "name": "scene",
       "styles": ["black", "bold", "light", "regular"],
@@ -119,6 +143,12 @@
       "type": "sans-serif"
     },
     {
+      "title": "Source Code Pro",
+      "name": "sourcecodepro",
+      "styles": ["black-italic", "black", "bold-italic", "bold", "extralight-italic", "extralight", "italic", "light-italic", "light", "medium-italic", "medium", "regular", "semibold-italic", "semibold"],
+      "type": "serif"
+    },
+    {
       "title": "Tarnation",
       "name": "tarnation",
       "styles": [""],
@@ -128,6 +158,12 @@
       "title": "Uni Sans",
       "name": "unisans",
       "styles": ["bold", "bold-italic", "book", "book-italic", "heavy", "heavy-italic", "light", "light-italic", "regular", "regular-italic", "semibold", "semibold-italic", "thin", "thin-italic"],
+      "type": "sans-serif"
+    },
+    {
+      "title": "Volkswagen",
+      "name": "vw",
+      "styles": ["bold-italic", "bold", "head-bold-italic", "head-bold", "head-extrabold", "head-italic", "head-light", "head-regular", "light", "regular-italic", "regular"],
       "type": "sans-serif"
     },
     {

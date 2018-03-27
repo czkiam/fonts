@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "vw-bold-italic";
+  src: url("../fonts/vw/vw-bold-italic.eot");
+  src: url("../fonts/vw/vw-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-bold-italic.woff") format("woff"), url("../fonts/vw/vw-bold-italic.ttf") format("truetype"), url("../fonts/vw/vw-bold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-bold";
+  src: url("../fonts/vw/vw-bold.eot");
+  src: url("../fonts/vw/vw-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-bold.woff") format("woff"), url("../fonts/vw/vw-bold.ttf") format("truetype"), url("../fonts/vw/vw-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-head-bold-italic";
+  src: url("../fonts/vw/vw-head-bold-italic.eot");
+  src: url("../fonts/vw/vw-head-bold-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-head-bold-italic.woff") format("woff"), url("../fonts/vw/vw-head-bold-italic.ttf") format("truetype"), url("../fonts/vw/vw-head-bold-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-head-bold";
+  src: url("../fonts/vw/vw-head-bold.eot");
+  src: url("../fonts/vw/vw-head-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-head-bold.woff") format("woff"), url("../fonts/vw/vw-head-bold.ttf") format("truetype"), url("../fonts/vw/vw-head-bold.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-head-extrabold";
+  src: url("../fonts/vw/vw-head-extrabold.eot");
+  src: url("../fonts/vw/vw-head-extrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-head-extrabold.woff") format("woff"), url("../fonts/vw/vw-head-extrabold.ttf") format("truetype"), url("../fonts/vw/vw-head-extrabold.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-head-italic";
+  src: url("../fonts/vw/vw-head-italic.eot");
+  src: url("../fonts/vw/vw-head-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-head-italic.woff") format("woff"), url("../fonts/vw/vw-head-italic.ttf") format("truetype"), url("../fonts/vw/vw-head-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-head-light";
+  src: url("../fonts/vw/vw-head-light.eot");
+  src: url("../fonts/vw/vw-head-light.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-head-light.woff") format("woff"), url("../fonts/vw/vw-head-light.ttf") format("truetype"), url("../fonts/vw/vw-head-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-head-regular";
+  src: url("../fonts/vw/vw-head-regular.eot");
+  src: url("../fonts/vw/vw-head-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-head-regular.woff") format("woff"), url("../fonts/vw/vw-head-regular.ttf") format("truetype"), url("../fonts/vw/vw-head-regular.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-light";
+  src: url("../fonts/vw/vw-light.eot");
+  src: url("../fonts/vw/vw-light.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-light.woff") format("woff"), url("../fonts/vw/vw-light.ttf") format("truetype"), url("../fonts/vw/vw-light.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-regular-italic";
+  src: url("../fonts/vw/vw-regular-italic.eot");
+  src: url("../fonts/vw/vw-regular-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-regular-italic.woff") format("woff"), url("../fonts/vw/vw-regular-italic.ttf") format("truetype"), url("../fonts/vw/vw-regular-italic.svg") format("svg"); }
+
+@font-face {
+  font-family: "vw-regular";
+  src: url("../fonts/vw/vw-regular.eot");
+  src: url("../fonts/vw/vw-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/vw/vw-regular.woff") format("woff"), url("../fonts/vw/vw-regular.ttf") format("truetype"), url("../fonts/vw/vw-regular.svg") format("svg"); }
